@@ -104,8 +104,6 @@ custom Linux theming files
 - [Mousepad themes](https://github.com/e33io/dotfiles/blob/main/usr/share/gtksourceview-4/styles) (and other gtksourceview-based editors)
 	- [Monokai Mod](https://github.com/e33io/dotfiles/blob/main/usr/share/gtksourceview-4/styles/monokai-mod.xml)
 	- [Monokai Mod Light](https://github.com/e33io/dotfiles/blob/main/usr/share/gtksourceview-4/styles/monokai-mod-light.xml)
-- [Zed themes](https://github.com/e33io/dotfiles/blob/main/.config/zed/themes)
-	- [Monokai Mod](https://github.com/e33io/dotfiles/blob/main/.config/zed/themes/Monokai-Mod.json)
 
 &nbsp;
 
