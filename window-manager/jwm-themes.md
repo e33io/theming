@@ -9,7 +9,7 @@ Desktop background color - `#0b2f5a`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Width>4</Width>
         <Height>37</Height>
         <Corner>0</Corner>
@@ -25,14 +25,14 @@ Desktop background color - `#0b2f5a`
         </Active>
     </WindowStyle>
     <TrayStyle decorations="motif">
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#252525</Background>
         <Outline>#252525</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#535353</Background>
         <Outline>#353535</Outline>
@@ -53,7 +53,7 @@ Desktop background color - `#0b2f5a`
         </Active>
     </PagerStyle>
     <MenuStyle>
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#353535</Background>
         <Outline>#9d9d9d</Outline>
@@ -70,12 +70,12 @@ Desktop background color - `#0b2f5a`
 
 ## Adwaita-Darker
 
-Desktop background color - `#0b2f5a`
+Desktop background color - `#092648`
 
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Width>4</Width>
         <Height>37</Height>
         <Corner>0</Corner>
@@ -91,14 +91,14 @@ Desktop background color - `#0b2f5a`
         </Active>
     </WindowStyle>
     <TrayStyle decorations="motif">
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#252525</Background>
         <Outline>#252525</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#535353</Background>
         <Outline>#353535</Outline>
@@ -119,7 +119,7 @@ Desktop background color - `#0b2f5a`
         </Active>
     </PagerStyle>
     <MenuStyle>
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#353535</Background>
         <Outline>#9d9d9d</Outline>
@@ -141,7 +141,7 @@ Desktop backgound color - `#382d24`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Width>4</Width>
         <Height>37</Height>
         <Corner>0</Corner>
@@ -157,14 +157,14 @@ Desktop backgound color - `#382d24`
         </Active>
     </WindowStyle>
     <TrayStyle decorations="motif">
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#252525</Background>
         <Outline>#252525</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#565656</Background>
         <Outline>#383838</Outline>
@@ -185,7 +185,7 @@ Desktop backgound color - `#382d24`
         </Active>
     </PagerStyle>
     <MenuStyle>
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#383838</Background>
         <Outline>#9d9d9d</Outline>
@@ -207,7 +207,7 @@ Desktop backgound color - `#1d3430`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Width>4</Width>
         <Height>37</Height>
         <Corner>0</Corner>
@@ -223,14 +223,14 @@ Desktop backgound color - `#1d3430`
         </Active>
     </WindowStyle>
     <TrayStyle decorations="motif">
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#252525</Background>
         <Outline>#252525</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#565656</Background>
         <Outline>#383838</Outline>
@@ -251,7 +251,7 @@ Desktop backgound color - `#1d3430`
         </Active>
     </PagerStyle>
     <MenuStyle>
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#383838</Background>
         <Outline>#9d9d9d</Outline>
@@ -273,7 +273,7 @@ Desktop backgound color - `#052f5a`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Width>4</Width>
         <Height>37</Height>
         <Corner>0</Corner>
@@ -289,14 +289,14 @@ Desktop backgound color - `#052f5a`
         </Active>
     </WindowStyle>
     <TrayStyle decorations="motif">
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#252525</Background>
         <Outline>#252525</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#565656</Background>
         <Outline>#383838</Outline>
@@ -317,7 +317,7 @@ Desktop backgound color - `#052f5a`
         </Active>
     </PagerStyle>
     <MenuStyle>
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#383838</Background>
         <Outline>#9d9d9d</Outline>
@@ -339,7 +339,7 @@ Desktop backgound color - `#12361c`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Width>4</Width>
         <Height>37</Height>
         <Corner>0</Corner>
@@ -355,14 +355,14 @@ Desktop backgound color - `#12361c`
         </Active>
     </WindowStyle>
     <TrayStyle decorations="motif">
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#252525</Background>
         <Outline>#252525</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#565656</Background>
         <Outline>#383838</Outline>
@@ -383,7 +383,7 @@ Desktop backgound color - `#12361c`
         </Active>
     </PagerStyle>
     <MenuStyle>
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#383838</Background>
         <Outline>#9d9d9d</Outline>
@@ -405,7 +405,7 @@ Desktop backgound color - `#2e2f32`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Width>4</Width>
         <Height>37</Height>
         <Corner>0</Corner>
@@ -421,14 +421,14 @@ Desktop backgound color - `#2e2f32`
         </Active>
     </WindowStyle>
     <TrayStyle decorations="motif">
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#252525</Background>
         <Outline>#252525</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#535353</Background>
         <Outline>#383838</Outline>
@@ -449,7 +449,7 @@ Desktop backgound color - `#2e2f32`
         </Active>
     </PagerStyle>
     <MenuStyle>
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#383838</Background>
         <Outline>#9d9d9d</Outline>
@@ -471,7 +471,7 @@ Desktop backgound color - `#591900`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Width>4</Width>
         <Height>37</Height>
         <Corner>0</Corner>
@@ -487,14 +487,14 @@ Desktop backgound color - `#591900`
         </Active>
     </WindowStyle>
     <TrayStyle decorations="motif">
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#252525</Background>
         <Outline>#252525</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#565656</Background>
         <Outline>#383838</Outline>
@@ -515,7 +515,7 @@ Desktop backgound color - `#591900`
         </Active>
     </PagerStyle>
     <MenuStyle>
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#383838</Background>
         <Outline>#9d9d9d</Outline>
@@ -537,7 +537,7 @@ Desktop backgound color - `#321d56`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Width>4</Width>
         <Height>37</Height>
         <Corner>0</Corner>
@@ -553,14 +553,14 @@ Desktop backgound color - `#321d56`
         </Active>
     </WindowStyle>
     <TrayStyle decorations="motif">
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#252525</Background>
         <Outline>#252525</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#565656</Background>
         <Outline>#383838</Outline>
@@ -581,7 +581,7 @@ Desktop backgound color - `#321d56`
         </Active>
     </PagerStyle>
     <MenuStyle>
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#383838</Background>
         <Outline>#9d9d9d</Outline>
@@ -603,7 +603,7 @@ Desktop backgound color - `#57090b`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Width>4</Width>
         <Height>37</Height>
         <Corner>0</Corner>
@@ -619,14 +619,14 @@ Desktop backgound color - `#57090b`
         </Active>
     </WindowStyle>
     <TrayStyle decorations="motif">
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#252525</Background>
         <Outline>#252525</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#565656</Background>
         <Outline>#383838</Outline>
@@ -647,7 +647,7 @@ Desktop backgound color - `#57090b`
         </Active>
     </PagerStyle>
     <MenuStyle>
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#383838</Background>
         <Outline>#9d9d9d</Outline>
@@ -669,7 +669,7 @@ Desktop backgound color - `#083539`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Width>4</Width>
         <Height>37</Height>
         <Corner>0</Corner>
@@ -685,14 +685,14 @@ Desktop backgound color - `#083539`
         </Active>
     </WindowStyle>
     <TrayStyle decorations="motif">
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#252525</Background>
         <Outline>#252525</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#565656</Background>
         <Outline>#383838</Outline>
@@ -713,7 +713,7 @@ Desktop backgound color - `#083539`
         </Active>
     </PagerStyle>
     <MenuStyle>
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#383838</Background>
         <Outline>#9d9d9d</Outline>
@@ -735,7 +735,7 @@ Desktop backgound color - `#013725`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Width>4</Width>
         <Height>37</Height>
         <Corner>0</Corner>
@@ -751,14 +751,14 @@ Desktop backgound color - `#013725`
         </Active>
     </WindowStyle>
     <TrayStyle decorations="motif">
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#252525</Background>
         <Outline>#252525</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#555555</Background>
         <Outline>#373737</Outline>
@@ -779,7 +779,7 @@ Desktop backgound color - `#013725`
         </Active>
     </PagerStyle>
     <MenuStyle>
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#373737</Background>
         <Outline>#a0a0a0</Outline>
@@ -801,7 +801,7 @@ Desktop backgound color - `#2a331b`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Width>4</Width>
         <Height>37</Height>
         <Corner>0</Corner>
@@ -817,14 +817,14 @@ Desktop backgound color - `#2a331b`
         </Active>
     </WindowStyle>
     <TrayStyle decorations="motif">
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#252525</Background>
         <Outline>#252525</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#555555</Background>
         <Outline>#373737</Outline>
@@ -845,7 +845,7 @@ Desktop backgound color - `#2a331b`
         </Active>
     </PagerStyle>
     <MenuStyle>
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#373737</Background>
         <Outline>#a0a0a0</Outline>
@@ -867,7 +867,7 @@ Desktop backgound color - `#551c08`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Width>4</Width>
         <Height>37</Height>
         <Corner>0</Corner>
@@ -883,14 +883,14 @@ Desktop backgound color - `#551c08`
         </Active>
     </WindowStyle>
     <TrayStyle decorations="motif">
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#252525</Background>
         <Outline>#252525</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#555555</Background>
         <Outline>#373737</Outline>
@@ -911,7 +911,7 @@ Desktop backgound color - `#551c08`
         </Active>
     </PagerStyle>
     <MenuStyle>
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#373737</Background>
         <Outline>#a0a0a0</Outline>
@@ -933,7 +933,7 @@ Desktop backgound color - `#291f5d`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Width>4</Width>
         <Height>37</Height>
         <Corner>0</Corner>
@@ -949,14 +949,14 @@ Desktop backgound color - `#291f5d`
         </Active>
     </WindowStyle>
     <TrayStyle decorations="motif">
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#252525</Background>
         <Outline>#252525</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#555555</Background>
         <Outline>#373737</Outline>
@@ -977,7 +977,7 @@ Desktop backgound color - `#291f5d`
         </Active>
     </PagerStyle>
     <MenuStyle>
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#373737</Background>
         <Outline>#a0a0a0</Outline>
@@ -999,7 +999,7 @@ Desktop backgound color - `#143534`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Width>4</Width>
         <Height>37</Height>
         <Corner>0</Corner>
@@ -1015,14 +1015,14 @@ Desktop backgound color - `#143534`
         </Active>
     </WindowStyle>
     <TrayStyle decorations="motif">
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#252525</Background>
         <Outline>#252525</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
-        <Font>monospace-8</Font>
+        <Font>sans-serif-8</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#555555</Background>
         <Outline>#373737</Outline>
@@ -1043,7 +1043,7 @@ Desktop backgound color - `#143534`
         </Active>
     </PagerStyle>
     <MenuStyle>
-        <Font>monospace-9</Font>
+        <Font>sans-serif-9</Font>
         <Foreground>#eeeeee</Foreground>
         <Background>#373737</Background>
         <Outline>#a0a0a0</Outline>
