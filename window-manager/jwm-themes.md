@@ -144,9 +144,9 @@ Desktop background color - `#0f3a6f`
         <Width>4</Width>
         <Height>37</Height>
         <Corner>0</Corner>
-        <Foreground>#6a6159</Foreground>
-        <Background>#e1dedb</Background>
-        <Outline>#e1dedb</Outline>
+        <Foreground>#696056</Foreground>
+        <Background>#e0dcd8</Background>
+        <Outline>#e0dcd8</Outline>
         <Opacity>1</Opacity>
         <Active>
             <Foreground>#ffffff</Foreground>
@@ -164,8 +164,8 @@ Desktop background color - `#0f3a6f`
     </TrayStyle>
     <TaskListStyle list="all">
         <Font>Sans-8</Font>
-        <Foreground>#6a6159</Foreground>
-        <Background>#e1dedb</Background>
+        <Foreground>#696056</Foreground>
+        <Background>#e0dcd8</Background>
         <Outline>#f6f5f4</Outline>
         <Active>
             <Foreground>#ffffff</Foreground>
