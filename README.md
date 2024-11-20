@@ -36,6 +36,7 @@ custom Linux theming files
 - [JWM themes](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes) (linked to [opt-dots](https://github.com/e33io/opt-dots) repo)
 	- [Adwaita-Dark](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Adwaita-Dark)
 	- [Adwaita-Darker](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Adwaita-Darker)
+	- [Adwaita-Light](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Adwaita-Light)
 	- [Mint-L-Dark-Brown](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Mint-L-Dark-Brown)
 	- [Mint-L-Dark-Teal](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Mint-L-Dark-Teal)
 	- [Mint-Y-Dark-Blue](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Mint-Y-Dark-Blue)
