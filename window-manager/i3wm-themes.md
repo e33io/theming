@@ -72,7 +72,7 @@ client.background       #7f7f7f
 
 ## Adwaita-Light
 
-Desktop background color - `#11427f`
+Desktop background color - `#0f3a6f`
 
 ```
 bar {
@@ -86,18 +86,18 @@ bar {
 		separator  #3584e4
 		#                  border  bckgrd  text
 		focused_workspace  #3584e4 #3584e4 #ffffff
-		active_workspace   #5f5f5f #5f5f5f #eeeeee
+		active_workspace   #b3aaa2 #b3aaa2 #453f39
 		inactive_workspace #f6f5f4 #f6f5f4 #2e3436
-		urgent_workspace   #aa0e15 #aa0e15 #eeeeee
-		binding_mode       #713d98 #713d98 #eeeeee
+		urgent_workspace   #aa0e15 #aa0e15 #ffffff
+		binding_mode       #703c97 #703c97 #ffffff
 	}
 }
 
 # i3 window colors      border  bckgrd  text    indictr child_border
 client.focused          #3584e4 #3584e4 #ffffff #7bafed #3584e4
-client.focused_inactive #5f5f5f #f6f5f4 #40494c #828282 #5f5f5f
-client.unfocused        #5f5f5f #f6f5f4 #40494c #828282 #5f5f5f
-client.urgent           #aa0e15 #aa0e15 #eeeeee #e6131d #aa0e15
+client.focused_inactive #b3aaa2 #f6f5f4 #453f39 #8e8175 #b3aaa2
+client.unfocused        #b3aaa2 #f6f5f4 #453f39 #8e8175 #b3aaa2
+client.urgent           #aa0e15 #aa0e15 #ffffff #e6131d #aa0e15
 client.placeholder      #f6f5f4 #f6f5f4 #2e3436 #f6f5f4 #f6f5f4
 client.background       #7f7f7f
 ```
