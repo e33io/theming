@@ -134,6 +134,71 @@ Desktop background color - `#092648`
 
 &nbsp;
 
+## Adwaita-Light
+
+Desktop background color - `#0f3a6f`
+
+```
+    <WindowStyle>
+        <Font>Sans-8</Font>
+        <Width>4</Width>
+        <Height>37</Height>
+        <Corner>0</Corner>
+        <Foreground>#6a6159</Foreground>
+        <Background>#e1dedb</Background>
+        <Outline>#e1dedb</Outline>
+        <Opacity>1</Opacity>
+        <Active>
+            <Foreground>#ffffff</Foreground>
+            <Background>#3584e4</Background>
+            <Outline>#3584e4</Outline>
+            <Opacity>1</Opacity>
+        </Active>
+    </WindowStyle>
+    <TrayStyle decorations="motif">
+        <Font>Sans-9</Font>
+        <Foreground>#2e3436</Foreground>
+        <Background>#f6f5f4</Background>
+        <Outline>#f6f5f4</Outline>
+        <Opacity>1</Opacity>
+    </TrayStyle>
+    <TaskListStyle list="all">
+        <Font>Sans-8</Font>
+        <Foreground>#6a6159</Foreground>
+        <Background>#e1dedb</Background>
+        <Outline>#f6f5f4</Outline>
+        <Active>
+            <Foreground>#ffffff</Foreground>
+            <Background>#3584e4</Background>
+            <Outline>#f6f5f4</Outline>
+        </Active>
+    </TaskListStyle>
+    <PagerStyle>
+        <Foreground>#cfc9c3</Foreground>
+        <Background>#f6f5f4</Background>
+        <Outline>#000000</Outline>
+        <Text>#2e3436</Text>
+        <Active>
+            <Foreground>#1a66c1</Foreground>
+            <Background>#3584e4</Background>
+        </Active>
+    </PagerStyle>
+    <MenuStyle>
+        <Font>Sans-9</Font>
+        <Foreground>#2e3436</Foreground>
+        <Background>#f6f5f4</Background>
+        <Outline>#5b5249</Outline>
+        <Opacity>1</Opacity>
+        <Active>
+            <Foreground>#ffffff</Foreground>
+            <Background>#3584e4</Background>
+        </Active>
+    </MenuStyle>
+    <PopupStyle enabled="false"/>
+```
+
+&nbsp;
+
 ## Mint-L-Dark-Brown
 
 Desktop backgound color - `#382d24`
