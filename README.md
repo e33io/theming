@@ -65,13 +65,6 @@ custom Linux theming files
 
 &nbsp;
 
-## desktop environment themes
-- [LXQt themes](https://github.com/e33io/opt-dots/blob/main/lxqt/usr/share/lxqt/themes) (linked to [opt-dots](https://github.com/e33io/opt-dots) repo)
-	- [System-Mod-Dark](https://github.com/e33io/opt-dots/blob/main/lxqt/usr/share/lxqt/themes/System-Mod-Dark)
-	- [System-Mod-Light](https://github.com/e33io/opt-dots/blob/main/lxqt/usr/share/lxqt/themes/System-Mod-Light)
-
-&nbsp;
-
 ## Rofi themes and config options
 - [Rofi themes](https://github.com/e33io/dotfiles/blob/main/.config/rofi/themes) (linked to [dotfiles](https://github.com/e33io/dotfiles) repo)
 - [Rofi config options](https://github.com/e33io/theming/blob/main/rofi/rofi-config-options.md)
@@ -93,8 +86,6 @@ custom Linux theming files
 - [Xfce Terminal themes](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/xfce4/terminal/colorschemes) (linked to [opt-dots](https://github.com/e33io/opt-dots) repo)
 	- [Monokai Mod](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/xfce4/terminal/colorschemes/monokai-mod.theme)
 	- [Monokai Mod Light](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/xfce4/terminal/colorschemes/monokai-mod-light.theme)
-- [QTerminal themes](https://github.com/e33io/opt-dots/blob/main/lxqt/.config/qterminal.org/color-schemes) (linked to [opt-dots](https://github.com/e33io/opt-dots) repo)
-	- [Monokai Mod](https://github.com/e33io/opt-dots/blob/main/lxqt/.config/qterminal.org/color-schemes/Monokai-Mod.colorscheme)
 
 &nbsp;
 
@@ -148,7 +139,6 @@ custom Linux theming files
 &nbsp;
 
 ## links
-- view my [fonts](https://github.com/e33io/fonts) repo
 - view my collection of made and found [wallpapers](https://i.e33.io/wallpapers)
 - view my documentation and notes [reference-wiki](https://github.com/e33io/reference-wiki) repo
 
