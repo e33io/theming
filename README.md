@@ -60,6 +60,7 @@ custom Linux theming files
 	- [System-24](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/System-24)
 	- [System-32](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/System-32)
 	- [System-40](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/System-40)
+	- [System-44](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/System-44)
 	- [System-48](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/System-48)
 	- [System-No-Titlebar](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/System-No-Titlebar)
 
@@ -139,6 +140,7 @@ custom Linux theming files
 &nbsp;
 
 ## links
+- view my [Sovran fonts](https://github.com/e33io/sovran-fonts) repo
 - view my collection of made and found [wallpapers](https://i.e33.io/wallpapers)
 - view my documentation and notes [reference-wiki](https://github.com/e33io/reference-wiki) repo
 
