@@ -64,7 +64,7 @@ selection_foreground none
 selection_background none
 url_color #1a7daf
 # white/orange ----------
-color0  #ffffff
+color0  #eaeaea
 color8  #be4902
 # red -------------------
 color1  #c6043c
@@ -88,15 +88,15 @@ color14 #168384
 color7  #636363
 color15 #767676
 # Tab colors ------------------
-active_tab_foreground #ffffff
+active_tab_foreground #eaeaea
 active_tab_background #156892
-inactive_tab_foreground #ffffff
+inactive_tab_foreground #eaeaea
 inactive_tab_background #636363
 # Border colors ---------------
 active_border_color #217033
 inactive_border_color #767676
 # Mark colors -----------------
-mark1_foreground #ffffff
+mark1_foreground #eaeaea
 mark1_background #c6043c
 ```
 

@@ -44,7 +44,7 @@
 *foreground:  #252525
 *background:  #ffffff
 ! white/orange ------------------
-*color0:  #ffffff
+*color0:  #eaeaea
 *color8:  #be4902
 ! red ---------------------------
 *color1:  #c6043c
