@@ -8,9 +8,8 @@ custom Linux theming files
 - [set-i3-theming](https://github.com/e33io/scripts/blob/main/set-i3-theming.sh) - select and set theming for i3 and applications
 - [set-jwm-theming](https://github.com/e33io/scripts/blob/main/set-jwm-theming.sh) - select and set theming for JWM and applications
 - [install-mint-themes](https://github.com/e33io/scripts/blob/main/install-mint-themes.sh) - install Linux Mint themes and icons on Debian
-- [install-mint-themes-suse](https://github.com/e33io/scripts/blob/main/install-mint-themes-suse.sh) - install Linux Mint themes and icons on openSUSE
+- [install-mint-themes-arch](https://github.com/e33io/scripts/blob/main/install-mint-themes-arch.sh) - install Linux Mint themes and icons on Arch
 - [install-yaru-themes](https://github.com/e33io/scripts/blob/main/install-yaru-themes.sh) - install Yaru themes and icons on Debian
-- [install-yaru-themes-suse](https://github.com/e33io/scripts/blob/main/install-yaru-themes-suse.sh) - install Yaru themes and icons on openSUSE
 
 &nbsp;
 
