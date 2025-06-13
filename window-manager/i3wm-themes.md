@@ -4,7 +4,7 @@
 
 ## Adwaita-Dark
 
-Desktop background color - `#0b2f5a`
+Desktop background color - `#202a36`
 
 ```
 bar {
@@ -38,7 +38,7 @@ client.background       #7f7f7f
 
 ## Adwaita-Darker
 
-Desktop background color - `#0b2f5a`
+Desktop background color - `#202a36`
 
 ```
 bar {
@@ -72,7 +72,7 @@ client.background       #7f7f7f
 
 ## Adwaita-Light
 
-Desktop background color - `#0f3a6f`
+Desktop background color - `#303e50`
 
 ```
 bar {
@@ -106,7 +106,7 @@ client.background       #7f7f7f
 
 ## Mint-L-Dark-Brown
 
-Desktop backgound color - `#382d24`
+Desktop backgound color - `#32271e`
 
 ```
 bar {
@@ -140,7 +140,7 @@ client.background       #7f7f7f
 
 ## Mint-L-Dark-Teal
 
-Desktop backgound color - `#1d3430`
+Desktop backgound color - `#1b2d29`
 
 ```
 bar {
@@ -174,7 +174,7 @@ client.background       #7f7f7f
 
 ## Mint-Y-Dark-Blue
 
-Desktop backgound color - `#052f5a`
+Desktop backgound color - `#202a35`
 
 ```
 bar {
@@ -208,7 +208,7 @@ client.background       #7f7f7f
 
 ## Mint-Y-Dark-Green
 
-Desktop backgound color - `#12361c`
+Desktop backgound color - `#1b2d20`
 
 ```
 bar {
@@ -242,7 +242,7 @@ client.background       #7f7f7f
 
 ## Mint-Y-Dark-Grey
 
-Desktop backgound color - `#2e2f32`
+Desktop backgound color - `#282a2c`
 
 ```
 bar {
@@ -276,7 +276,7 @@ client.background       #7f7f7f
 
 ## Mint-Y-Dark-Orange
 
-Desktop backgound color - `#591900`
+Desktop backgound color - `#352620`
 
 ```
 bar {
@@ -310,7 +310,7 @@ client.background       #7f7f7f
 
 ## Mint-Y-Dark-Purple
 
-Desktop backgound color - `#321d56`
+Desktop backgound color - `#2e253e`
 
 ```
 bar {
@@ -344,7 +344,7 @@ client.background       #7f7f7f
 
 ## Mint-Y-Dark-Red
 
-Desktop backgound color - `#57090b`
+Desktop backgound color - `#3b2324`
 
 ```
 bar {
@@ -378,7 +378,7 @@ client.background       #7f7f7f
 
 ## Mint-Y-Dark-Teal
 
-Desktop backgound color - `#083539`
+Desktop backgound color - `#1b2c2e`
 
 ```
 bar {
@@ -412,7 +412,7 @@ client.background       #7f7f7f
 
 ## Yaru-Dark-Green
 
-Desktop backgound color - `#013725`
+Desktop backgound color - `#1b2d27`
 
 ```
 bar {
@@ -446,7 +446,7 @@ client.background       #7f7f7f
 
 ## Yaru-Dark-MATE
 
-Desktop backgound color - `#2a331b`
+Desktop backgound color - `#252c1a`
 
 ```
 bar {
@@ -480,7 +480,7 @@ client.background       #7f7f7f
 
 ## Yaru-Dark-Orange
 
-Desktop backgound color - `#551c08`
+Desktop backgound color - `#362620`
 
 ```
 bar {
@@ -514,7 +514,7 @@ client.background       #7f7f7f
 
 ## Yaru-Dark-Purple
 
-Desktop backgound color - `#291f5d`
+Desktop backgound color - `#2b2640`
 
 ```
 bar {
@@ -548,7 +548,7 @@ client.background       #7f7f7f
 
 ## Yaru-Dark-Teal
 
-Desktop backgound color - `#143534`
+Desktop backgound color - `#1b2d2d`
 
 ```
 bar {

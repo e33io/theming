@@ -4,7 +4,7 @@
 
 ## Adwaita-Dark
 
-Desktop background color - `#0b2f5a`
+Desktop background color - `#202a36`
 
 ```
     <!-- Visual styles -->
@@ -70,7 +70,7 @@ Desktop background color - `#0b2f5a`
 
 ## Adwaita-Darker
 
-Desktop background color - `#092648`
+Desktop background color - `#202a36`
 
 ```
     <!-- Visual styles -->
@@ -136,7 +136,7 @@ Desktop background color - `#092648`
 
 ## Adwaita-Light
 
-Desktop background color - `#0f3a6f`
+Desktop background color - `#303e50`
 
 ```
     <WindowStyle>
@@ -201,7 +201,7 @@ Desktop background color - `#0f3a6f`
 
 ## Mint-L-Dark-Brown
 
-Desktop backgound color - `#382d24`
+Desktop backgound color - `#32271e`
 
 ```
     <!-- Visual styles -->
@@ -267,7 +267,7 @@ Desktop backgound color - `#382d24`
 
 ## Mint-L-Dark-Teal
 
-Desktop backgound color - `#1d3430`
+Desktop backgound color - `#1b2d29`
 
 ```
     <!-- Visual styles -->
@@ -333,7 +333,7 @@ Desktop backgound color - `#1d3430`
 
 ## Mint-Y-Dark-Blue
 
-Desktop backgound color - `#052f5a`
+Desktop backgound color - `#202a35`
 
 ```
     <!-- Visual styles -->
@@ -399,7 +399,7 @@ Desktop backgound color - `#052f5a`
 
 ## Mint-Y-Dark-Green
 
-Desktop backgound color - `#12361c`
+Desktop backgound color - `#1b2d20`
 
 ```
     <!-- Visual styles -->
@@ -465,7 +465,7 @@ Desktop backgound color - `#12361c`
 
 ## Mint-Y-Dark-Grey
 
-Desktop backgound color - `#2e2f32`
+Desktop backgound color - `#282a2c`
 
 ```
     <!-- Visual styles -->
@@ -531,7 +531,7 @@ Desktop backgound color - `#2e2f32`
 
 ## Mint-Y-Dark-Orange
 
-Desktop backgound color - `#591900`
+Desktop backgound color - `#352620`
 
 ```
     <!-- Visual styles -->
@@ -597,7 +597,7 @@ Desktop backgound color - `#591900`
 
 ## Mint-Y-Dark-Purple
 
-Desktop backgound color - `#321d56`
+Desktop backgound color - `#2e253e`
 
 ```
     <!-- Visual styles -->
@@ -663,7 +663,7 @@ Desktop backgound color - `#321d56`
 
 ## Mint-Y-Dark-Red
 
-Desktop backgound color - `#57090b`
+Desktop backgound color - `#3b2324`
 
 ```
     <!-- Visual styles -->
@@ -729,7 +729,7 @@ Desktop backgound color - `#57090b`
 
 ## Mint-Y-Dark-Teal
 
-Desktop backgound color - `#083539`
+Desktop backgound color - `#1b2c2e`
 
 ```
     <!-- Visual styles -->
@@ -795,7 +795,7 @@ Desktop backgound color - `#083539`
 
 ## Yaru-Dark-Green
 
-Desktop backgound color - `#013725`
+Desktop backgound color - `#1b2d27`
 
 ```
     <!-- Visual styles -->
@@ -861,7 +861,7 @@ Desktop backgound color - `#013725`
 
 ## Yaru-Dark-MATE
 
-Desktop backgound color - `#2a331b`
+Desktop backgound color - `#252c1a`
 
 ```
     <!-- Visual styles -->
@@ -927,7 +927,7 @@ Desktop backgound color - `#2a331b`
 
 ## Yaru-Dark-Orange
 
-Desktop backgound color - `#551c08`
+Desktop backgound color - `#362620`
 
 ```
     <!-- Visual styles -->
@@ -993,7 +993,7 @@ Desktop backgound color - `#551c08`
 
 ## Yaru-Dark-Purple
 
-Desktop backgound color - `#291f5d`
+Desktop backgound color - `#2b2640`
 
 ```
     <!-- Visual styles -->
@@ -1059,7 +1059,7 @@ Desktop backgound color - `#291f5d`
 
 ## Yaru-Dark-Teal
 
-Desktop backgound color - `#143534`
+Desktop backgound color - `#1b2d2d`
 
 ```
     <!-- Visual styles -->
