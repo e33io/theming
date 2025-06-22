@@ -1,6 +1,6 @@
 # theming
 
-custom Linux theming files
+linux theming files
 
 &nbsp;
 
