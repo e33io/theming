@@ -475,8 +475,8 @@ Desktop backgound color - `#282a2c`
         <Height>37</Height>
         <Corner>0</Corner>
         <Foreground>#eeeeee</Foreground>
-        <Background>#535353</Background>
-        <Outline>#535353</Outline>
+        <Background>#494949</Background>
+        <Outline>#494949</Outline>
         <Opacity>1</Opacity>
         <Active>
             <Foreground>#ffffff</Foreground>
@@ -495,7 +495,7 @@ Desktop backgound color - `#282a2c`
     <TaskListStyle list="all">
         <Font>Sans-8</Font>
         <Foreground>#eeeeee</Foreground>
-        <Background>#535353</Background>
+        <Background>#494949</Background>
         <Outline>#383838</Outline>
         <Active>
             <Foreground>#ffffff</Foreground>
