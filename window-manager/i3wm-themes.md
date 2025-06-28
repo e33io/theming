@@ -344,7 +344,7 @@ client.background       #7f7f7f
 
 ## Mint-Y-Dark-Red
 
-Desktop backgound color - `#3b2324`
+Desktop backgound color - `#441e20`
 
 ```
 bar {

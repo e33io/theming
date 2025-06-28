@@ -663,7 +663,7 @@ Desktop backgound color - `#2e253e`
 
 ## Mint-Y-Dark-Red
 
-Desktop backgound color - `#3b2324`
+Desktop backgound color - `#441e20`
 
 ```
     <!-- Visual styles -->
