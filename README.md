@@ -115,16 +115,6 @@ linux theming files
 &nbsp;
 
 ## Kvantum (Qt) themes
-- Mint Dark themes (standard Linux Mint theme colors)
-	- [Mint-L-Dark-Brown](https://github.com/e33io/theming/blob/main/Kvantum/Mint-L-Dark-Brown)
-	- [Mint-L-Dark-Teal](https://github.com/e33io/theming/blob/main/Kvantum/Mint-L-Dark-Teal)
-	- [Mint-Y-Dark-Blue](https://github.com/e33io/theming/blob/main/Kvantum/Mint-Y-Dark-Blue)
-	- [Mint-Y-Dark-Green](https://github.com/e33io/theming/blob/main/Kvantum/Mint-Y-Dark-Green)
-	- [Mint-Y-Dark-Grey](https://github.com/e33io/theming/blob/main/Kvantum/Mint-Y-Dark-Grey)
-	- [Mint-Y-Dark-Orange](https://github.com/e33io/theming/blob/main/Kvantum/Mint-Y-Dark-Orange)
-	- [Mint-Y-Dark-Purple](https://github.com/e33io/theming/blob/main/Kvantum/Mint-Y-Dark-Purple)
-	- [Mint-Y-Dark-Red](https://github.com/e33io/theming/blob/main/Kvantum/Mint-Y-Dark-Red)
-	- [Mint-Y-Dark-Teal](https://github.com/e33io/theming/blob/main/Kvantum/Mint-Y-Dark-Teal)
 - Mint Dark Mod themes (modified for a darker appearance)
 	- [Mint-L-Dark-Mod-Brown](https://github.com/e33io/theming/blob/main/Kvantum/Mint-L-Dark-Mod-Brown)
 	- [Mint-L-Dark-Mod-Teal](https://github.com/e33io/theming/blob/main/Kvantum/Mint-L-Dark-Mod-Teal)
