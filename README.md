@@ -27,6 +27,7 @@ linux theming files
 	- [Mint-Y-Dark-Purple](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#mint-y-dark-purple)
 	- [Mint-Y-Dark-Red](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#mint-y-dark-red)
 	- [Mint-Y-Dark-Teal](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#mint-y-dark-teal)
+	- [Yaru-Dark-Blue](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#yaru-dark-blue)
 	- [Yaru-Dark-Green](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#yaru-dark-green)
 	- [Yaru-Dark-Orange](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#yaru-dark-orange)
 	- [Yaru-Dark-Purple](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#yaru-dark-purple)
@@ -45,10 +46,11 @@ linux theming files
 	- [Mint-Y-Dark-Purple](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Mint-Y-Dark-Purple)
 	- [Mint-Y-Dark-Red](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Mint-Y-Dark-Red)
 	- [Mint-Y-Dark-Teal](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Mint-Y-Dark-Teal)
+	- [Yaru-Dark-Blue](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Yaru-Dark-Blue)
 	- [Yaru-Dark-Green](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Yaru-Dark-Green)
 	- [Yaru-Dark-Orange](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Yaru-Dark-Orange)
 	- [Yaru-Dark-Purple](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Yaru-Dark-Purple)
-	- [Yaru-Dark-Sage](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Yaru-Dark-sage)
+	- [Yaru-Dark-Sage](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Yaru-Dark-Sage)
 	- [Yaru-Dark-Teal](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Yaru-Dark-Teal)
 - [Xfwm4 themes](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes) (linked to [opt-dots](https://github.com/e33io/opt-dots) repo)
 	- [Border-Only-1px](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/Border-Only-1px)
@@ -125,6 +127,13 @@ linux theming files
 	- [Mint-Y-Dark-Mod-Purple](https://github.com/e33io/theming/blob/main/Kvantum/Mint-Y-Dark-Mod-Purple)
 	- [Mint-Y-Dark-Mod-Red](https://github.com/e33io/theming/blob/main/Kvantum/Mint-Y-Dark-Mod-Red)
 	- [Mint-Y-Dark-Mod-Teal](https://github.com/e33io/theming/blob/main/Kvantum/Mint-Y-Dark-Mod-Teal)
+- Yaru Dark themes
+	- [Yaru-Dark-Blue](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-blue-dark)
+	- [Yaru-Dark-Green](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-viridian-dark)
+	- [Yaru-Dark-Orange](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-orange-dark)
+	- [Yaru-Dark-Purple](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-purple-dark)
+	- [Yaru-Dark-Sage](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-sage-dark)
+	- [Yaru-Dark-Teal](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-prussiangreen-dark)
 
 &nbsp;
 

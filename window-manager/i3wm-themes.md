@@ -410,6 +410,40 @@ client.background       #7f7f7f
 
 &nbsp;
 
+## Yaru-Dark-Blue
+
+Desktop backgound color - `#202b35`
+
+```
+bar {
+    ######################
+    # bar settings go here
+    ######################
+    colors {
+        # i3bar colors
+        background #1e1e1e
+        statusline #eeeeee
+        separator  #0073e5
+        #                  border  bckgrd  text
+        focused_workspace  #0073e5 #0073e5 #ffffff
+        active_workspace   #555555 #555555 #eeeeee
+        inactive_workspace #1e1e1e #1e1e1e #eeeeee
+        urgent_workspace   #ac0e16 #ac0e16 #ffffff
+        binding_mode       #723c99 #723c99 #ffffff
+    }
+}
+
+# i3 window colors      border  bckgrd  text    indictr child_border
+client.focused          #0073e5 #0073e5 #ffffff #2c96ff #0073e5
+client.focused_inactive #555555 #1e1e1e #cccccc #707070 #555555
+client.unfocused        #555555 #1e1e1e #cccccc #707070 #555555
+client.urgent           #ac0e16 #ac0e16 #ffffff #c8101a #ac0e16
+client.placeholder      #1e1e1e #1e1e1e #eeeeee #1e1e1e #1e1e1e
+client.background       #7f7f7f
+```
+
+&nbsp;
+
 ## Yaru-Dark-Green
 
 Desktop backgound color - `#1b2d27`
