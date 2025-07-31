@@ -444,40 +444,6 @@ client.background       #7f7f7f
 
 &nbsp;
 
-## Yaru-Dark-MATE
-
-Desktop backgound color - `#252c1a`
-
-```
-bar {
-    ######################
-    # bar settings go here
-    ######################
-    colors {
-        # i3bar colors
-        background #1e1e1e
-        statusline #eeeeee
-        separator  #87a556
-        #                  border  bckgrd  text
-        focused_workspace  #87a556 #87a556 #ffffff
-        active_workspace   #555555 #555555 #eeeeee
-        inactive_workspace #1e1e1e #1e1e1e #eeeeee
-        urgent_workspace   #ac0e16 #ac0e16 #ffffff
-        binding_mode       #723c99 #723c99 #ffffff
-    }
-}
-
-# i3 window colors      border  bckgrd  text    indictr child_border
-client.focused          #87a556 #87a556 #ffffff #b2c591 #87a556
-client.focused_inactive #555555 #1e1e1e #cccccc #707070 #555555
-client.unfocused        #555555 #1e1e1e #cccccc #707070 #555555
-client.urgent           #ac0e16 #ac0e16 #ffffff #c8101a #ac0e16
-client.placeholder      #1e1e1e #1e1e1e #eeeeee #1e1e1e #1e1e1e
-client.background       #7f7f7f
-```
-
-&nbsp;
-
 ## Yaru-Dark-Orange
 
 Desktop backgound color - `#362620`
@@ -537,6 +503,40 @@ bar {
 
 # i3 window colors      border  bckgrd  text    indictr child_border
 client.focused          #7764d8 #7764d8 #ffffff #9789e1 #7764d8
+client.focused_inactive #555555 #1e1e1e #cccccc #707070 #555555
+client.unfocused        #555555 #1e1e1e #cccccc #707070 #555555
+client.urgent           #ac0e16 #ac0e16 #ffffff #c8101a #ac0e16
+client.placeholder      #1e1e1e #1e1e1e #eeeeee #1e1e1e #1e1e1e
+client.background       #7f7f7f
+```
+
+&nbsp;
+
+## Yaru-Dark-Sage
+
+Desktop backgound color - `#232b25`
+
+```
+bar {
+    ######################
+    # bar settings go here
+    ######################
+    colors {
+        # i3bar colors
+        background #1e1e1e
+        statusline #eeeeee
+        separator  #657b69
+        #                  border  bckgrd  text
+        focused_workspace  #657b69 #657b69 #ffffff
+        active_workspace   #555555 #555555 #eeeeee
+        inactive_workspace #1e1e1e #1e1e1e #eeeeee
+        urgent_workspace   #ac0e16 #ac0e16 #ffffff
+        binding_mode       #723c99 #723c99 #ffffff
+    }
+}
+
+# i3 window colors      border  bckgrd  text    indictr child_border
+client.focused          #657b69 #657b69 #ffffff #839987 #657b69
 client.focused_inactive #555555 #1e1e1e #cccccc #707070 #555555
 client.unfocused        #555555 #1e1e1e #cccccc #707070 #555555
 client.urgent           #ac0e16 #ac0e16 #ffffff #c8101a #ac0e16

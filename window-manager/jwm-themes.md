@@ -859,72 +859,6 @@ Desktop backgound color - `#1b2d27`
 
 &nbsp;
 
-## Yaru-Dark-MATE
-
-Desktop backgound color - `#252c1a`
-
-```
-    <!-- Visual styles -->
-    <WindowStyle>
-        <Font>Sans-8</Font>
-        <Width>4</Width>
-        <Height>39</Height>
-        <Corner>0</Corner>
-        <Foreground>#eeeeee</Foreground>
-        <Background>#555555</Background>
-        <Outline>#555555</Outline>
-        <Opacity>1</Opacity>
-        <Active>
-            <Foreground>#ffffff</Foreground>
-            <Background>#87a556</Background>
-            <Outline>#87a556</Outline>
-            <Opacity>1</Opacity>
-        </Active>
-    </WindowStyle>
-    <TrayStyle decorations="motif">
-        <Font>Sans-9</Font>
-        <Foreground>#eeeeee</Foreground>
-        <Background>#1e1e1e</Background>
-        <Outline>#1e1e1e</Outline>
-        <Opacity>1</Opacity>
-    </TrayStyle>
-    <TaskListStyle list="all">
-        <Font>Sans-8</Font>
-        <Foreground>#eeeeee</Foreground>
-        <Background>#555555</Background>
-        <Outline>#373737</Outline>
-        <Active>
-            <Foreground>#ffffff</Foreground>
-            <Background>#87a556</Background>
-            <Outline>#373737</Outline>
-        </Active>
-    </TaskListStyle>
-    <PagerStyle>
-        <Foreground>#8e8e8e</Foreground>
-        <Background>#373737</Background>
-        <Outline>#000000</Outline>
-        <Text>#eeeeee</Text>
-        <Active>
-            <Foreground>#b2c591</Foreground>
-            <Background>#87a556</Background>
-        </Active>
-    </PagerStyle>
-    <MenuStyle>
-        <Font>Sans-9</Font>
-        <Foreground>#eeeeee</Foreground>
-        <Background>#373737</Background>
-        <Outline>#a0a0a0</Outline>
-        <Opacity>1</Opacity>
-        <Active>
-            <Foreground>#ffffff</Foreground>
-            <Background>#87a556</Background>
-        </Active>
-    </MenuStyle>
-    <PopupStyle enabled="false"/>
-```
-
-&nbsp;
-
 ## Yaru-Dark-Orange
 
 Desktop backgound color - `#362620`
@@ -1050,6 +984,72 @@ Desktop backgound color - `#2b2640`
         <Active>
             <Foreground>#ffffff</Foreground>
             <Background>#7764d8</Background>
+        </Active>
+    </MenuStyle>
+    <PopupStyle enabled="false"/>
+```
+
+&nbsp;
+
+## Yaru-Dark-Sage
+
+Desktop backgound color - `#232b25`
+
+```
+    <!-- Visual styles -->
+    <WindowStyle>
+        <Font align="center">Sans-8</Font>
+        <Width>4</Width>
+        <Height>39</Height>
+        <Corner>0</Corner>
+        <Foreground>#eeeeee</Foreground>
+        <Background>#555555</Background>
+        <Outline>#555555</Outline>
+        <Opacity>1</Opacity>
+        <Active>
+            <Foreground>#ffffff</Foreground>
+            <Background>#657b69</Background>
+            <Outline>#657b69</Outline>
+            <Opacity>1</Opacity>
+        </Active>
+    </WindowStyle>
+    <TrayStyle decorations="motif">
+        <Font>Sans-9</Font>
+        <Foreground>#eeeeee</Foreground>
+        <Background>#1e1e1e</Background>
+        <Outline>#1e1e1e</Outline>
+        <Opacity>1</Opacity>
+    </TrayStyle>
+    <TaskListStyle list="all">
+        <Font>Sans-8</Font>
+        <Foreground>#eeeeee</Foreground>
+        <Background>#555555</Background>
+        <Outline>#373737</Outline>
+        <Active>
+            <Foreground>#ffffff</Foreground>
+            <Background>#657b69</Background>
+            <Outline>#373737</Outline>
+        </Active>
+    </TaskListStyle>
+    <PagerStyle>
+        <Foreground>#8e8e8e</Foreground>
+        <Background>#373737</Background>
+        <Outline>#000000</Outline>
+        <Text>#eeeeee</Text>
+        <Active>
+            <Foreground>#839987</Foreground>
+            <Background>#657b69</Background>
+        </Active>
+    </PagerStyle>
+    <MenuStyle>
+        <Font>Sans-9</Font>
+        <Foreground>#eeeeee</Foreground>
+        <Background>#373737</Background>
+        <Outline>#a0a0a0</Outline>
+        <Opacity>1</Opacity>
+        <Active>
+            <Foreground>#ffffff</Foreground>
+            <Background>#657b69</Background>
         </Active>
     </MenuStyle>
     <PopupStyle enabled="false"/>
