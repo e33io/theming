@@ -11,7 +11,7 @@ Desktop background color - `#202a36`
     <WindowStyle>
         <Font>Sans-8</Font>
         <Width>4</Width>
-        <Height>37</Height>
+        <Height>39</Height>
         <Corner>0</Corner>
         <Foreground>#eeeeee</Foreground>
         <Background>#535353</Background>
@@ -27,8 +27,8 @@ Desktop background color - `#202a36`
     <TrayStyle decorations="motif">
         <Font>Sans-9</Font>
         <Foreground>#eeeeee</Foreground>
-        <Background>#252525</Background>
-        <Outline>#252525</Outline>
+        <Background>#1e1e1e</Background>
+        <Outline>#1e1e1e</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
@@ -77,7 +77,7 @@ Desktop background color - `#202a36`
     <WindowStyle>
         <Font>Sans-8</Font>
         <Width>4</Width>
-        <Height>37</Height>
+        <Height>39</Height>
         <Corner>0</Corner>
         <Foreground>#eeeeee</Foreground>
         <Background>#535353</Background>
@@ -93,8 +93,8 @@ Desktop background color - `#202a36`
     <TrayStyle decorations="motif">
         <Font>Sans-9</Font>
         <Foreground>#eeeeee</Foreground>
-        <Background>#252525</Background>
-        <Outline>#252525</Outline>
+        <Background>#1e1e1e</Background>
+        <Outline>#1e1e1e</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
@@ -142,7 +142,7 @@ Desktop background color - `#303e50`
     <WindowStyle>
         <Font>Sans-8</Font>
         <Width>4</Width>
-        <Height>37</Height>
+        <Height>39</Height>
         <Corner>0</Corner>
         <Foreground>#696056</Foreground>
         <Background>#e0dcd8</Background>
@@ -208,7 +208,7 @@ Desktop backgound color - `#32271e`
     <WindowStyle>
         <Font>Sans-8</Font>
         <Width>4</Width>
-        <Height>37</Height>
+        <Height>39</Height>
         <Corner>0</Corner>
         <Foreground>#eeeeee</Foreground>
         <Background>#565656</Background>
@@ -224,8 +224,8 @@ Desktop backgound color - `#32271e`
     <TrayStyle decorations="motif">
         <Font>Sans-9</Font>
         <Foreground>#eeeeee</Foreground>
-        <Background>#252525</Background>
-        <Outline>#252525</Outline>
+        <Background>#1e1e1e</Background>
+        <Outline>#1e1e1e</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
@@ -274,7 +274,7 @@ Desktop backgound color - `#1b2d29`
     <WindowStyle>
         <Font>Sans-8</Font>
         <Width>4</Width>
-        <Height>37</Height>
+        <Height>39</Height>
         <Corner>0</Corner>
         <Foreground>#eeeeee</Foreground>
         <Background>#565656</Background>
@@ -290,8 +290,8 @@ Desktop backgound color - `#1b2d29`
     <TrayStyle decorations="motif">
         <Font>Sans-9</Font>
         <Foreground>#eeeeee</Foreground>
-        <Background>#252525</Background>
-        <Outline>#252525</Outline>
+        <Background>#1e1e1e</Background>
+        <Outline>#1e1e1e</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
@@ -340,7 +340,7 @@ Desktop backgound color - `#202a35`
     <WindowStyle>
         <Font>Sans-8</Font>
         <Width>4</Width>
-        <Height>37</Height>
+        <Height>39</Height>
         <Corner>0</Corner>
         <Foreground>#eeeeee</Foreground>
         <Background>#565656</Background>
@@ -356,8 +356,8 @@ Desktop backgound color - `#202a35`
     <TrayStyle decorations="motif">
         <Font>Sans-9</Font>
         <Foreground>#eeeeee</Foreground>
-        <Background>#252525</Background>
-        <Outline>#252525</Outline>
+        <Background>#1e1e1e</Background>
+        <Outline>#1e1e1e</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
@@ -406,7 +406,7 @@ Desktop backgound color - `#1b2d20`
     <WindowStyle>
         <Font>Sans-8</Font>
         <Width>4</Width>
-        <Height>37</Height>
+        <Height>39</Height>
         <Corner>0</Corner>
         <Foreground>#eeeeee</Foreground>
         <Background>#565656</Background>
@@ -422,8 +422,8 @@ Desktop backgound color - `#1b2d20`
     <TrayStyle decorations="motif">
         <Font>Sans-9</Font>
         <Foreground>#eeeeee</Foreground>
-        <Background>#252525</Background>
-        <Outline>#252525</Outline>
+        <Background>#1e1e1e</Background>
+        <Outline>#1e1e1e</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
@@ -472,7 +472,7 @@ Desktop backgound color - `#282a2c`
     <WindowStyle>
         <Font>Sans-8</Font>
         <Width>4</Width>
-        <Height>37</Height>
+        <Height>39</Height>
         <Corner>0</Corner>
         <Foreground>#eeeeee</Foreground>
         <Background>#494949</Background>
@@ -488,8 +488,8 @@ Desktop backgound color - `#282a2c`
     <TrayStyle decorations="motif">
         <Font>Sans-9</Font>
         <Foreground>#eeeeee</Foreground>
-        <Background>#252525</Background>
-        <Outline>#252525</Outline>
+        <Background>#1e1e1e</Background>
+        <Outline>#1e1e1e</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
@@ -538,7 +538,7 @@ Desktop backgound color - `#352620`
     <WindowStyle>
         <Font>Sans-8</Font>
         <Width>4</Width>
-        <Height>37</Height>
+        <Height>39</Height>
         <Corner>0</Corner>
         <Foreground>#eeeeee</Foreground>
         <Background>#565656</Background>
@@ -554,8 +554,8 @@ Desktop backgound color - `#352620`
     <TrayStyle decorations="motif">
         <Font>Sans-9</Font>
         <Foreground>#eeeeee</Foreground>
-        <Background>#252525</Background>
-        <Outline>#252525</Outline>
+        <Background>#1e1e1e</Background>
+        <Outline>#1e1e1e</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
@@ -604,7 +604,7 @@ Desktop backgound color - `#2e253e`
     <WindowStyle>
         <Font>Sans-8</Font>
         <Width>4</Width>
-        <Height>37</Height>
+        <Height>39</Height>
         <Corner>0</Corner>
         <Foreground>#eeeeee</Foreground>
         <Background>#565656</Background>
@@ -620,8 +620,8 @@ Desktop backgound color - `#2e253e`
     <TrayStyle decorations="motif">
         <Font>Sans-9</Font>
         <Foreground>#eeeeee</Foreground>
-        <Background>#252525</Background>
-        <Outline>#252525</Outline>
+        <Background>#1e1e1e</Background>
+        <Outline>#1e1e1e</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
@@ -670,7 +670,7 @@ Desktop backgound color - `#441e20`
     <WindowStyle>
         <Font>Sans-8</Font>
         <Width>4</Width>
-        <Height>37</Height>
+        <Height>39</Height>
         <Corner>0</Corner>
         <Foreground>#eeeeee</Foreground>
         <Background>#565656</Background>
@@ -686,8 +686,8 @@ Desktop backgound color - `#441e20`
     <TrayStyle decorations="motif">
         <Font>Sans-9</Font>
         <Foreground>#eeeeee</Foreground>
-        <Background>#252525</Background>
-        <Outline>#252525</Outline>
+        <Background>#1e1e1e</Background>
+        <Outline>#1e1e1e</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
@@ -736,7 +736,7 @@ Desktop backgound color - `#1b2c2e`
     <WindowStyle>
         <Font>Sans-8</Font>
         <Width>4</Width>
-        <Height>37</Height>
+        <Height>39</Height>
         <Corner>0</Corner>
         <Foreground>#eeeeee</Foreground>
         <Background>#565656</Background>
@@ -752,8 +752,8 @@ Desktop backgound color - `#1b2c2e`
     <TrayStyle decorations="motif">
         <Font>Sans-9</Font>
         <Foreground>#eeeeee</Foreground>
-        <Background>#252525</Background>
-        <Outline>#252525</Outline>
+        <Background>#1e1e1e</Background>
+        <Outline>#1e1e1e</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
@@ -802,7 +802,7 @@ Desktop backgound color - `#1b2d27`
     <WindowStyle>
         <Font>Sans-8</Font>
         <Width>4</Width>
-        <Height>37</Height>
+        <Height>39</Height>
         <Corner>0</Corner>
         <Foreground>#eeeeee</Foreground>
         <Background>#555555</Background>
@@ -818,8 +818,8 @@ Desktop backgound color - `#1b2d27`
     <TrayStyle decorations="motif">
         <Font>Sans-9</Font>
         <Foreground>#eeeeee</Foreground>
-        <Background>#252525</Background>
-        <Outline>#252525</Outline>
+        <Background>#1e1e1e</Background>
+        <Outline>#1e1e1e</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
@@ -868,7 +868,7 @@ Desktop backgound color - `#252c1a`
     <WindowStyle>
         <Font>Sans-8</Font>
         <Width>4</Width>
-        <Height>37</Height>
+        <Height>39</Height>
         <Corner>0</Corner>
         <Foreground>#eeeeee</Foreground>
         <Background>#555555</Background>
@@ -884,8 +884,8 @@ Desktop backgound color - `#252c1a`
     <TrayStyle decorations="motif">
         <Font>Sans-9</Font>
         <Foreground>#eeeeee</Foreground>
-        <Background>#252525</Background>
-        <Outline>#252525</Outline>
+        <Background>#1e1e1e</Background>
+        <Outline>#1e1e1e</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
@@ -934,7 +934,7 @@ Desktop backgound color - `#362620`
     <WindowStyle>
         <Font>Sans-8</Font>
         <Width>4</Width>
-        <Height>37</Height>
+        <Height>39</Height>
         <Corner>0</Corner>
         <Foreground>#eeeeee</Foreground>
         <Background>#555555</Background>
@@ -950,8 +950,8 @@ Desktop backgound color - `#362620`
     <TrayStyle decorations="motif">
         <Font>Sans-9</Font>
         <Foreground>#eeeeee</Foreground>
-        <Background>#252525</Background>
-        <Outline>#252525</Outline>
+        <Background>#1e1e1e</Background>
+        <Outline>#1e1e1e</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
@@ -1000,7 +1000,7 @@ Desktop backgound color - `#2b2640`
     <WindowStyle>
         <Font>Sans-8</Font>
         <Width>4</Width>
-        <Height>37</Height>
+        <Height>39</Height>
         <Corner>0</Corner>
         <Foreground>#eeeeee</Foreground>
         <Background>#555555</Background>
@@ -1016,8 +1016,8 @@ Desktop backgound color - `#2b2640`
     <TrayStyle decorations="motif">
         <Font>Sans-9</Font>
         <Foreground>#eeeeee</Foreground>
-        <Background>#252525</Background>
-        <Outline>#252525</Outline>
+        <Background>#1e1e1e</Background>
+        <Outline>#1e1e1e</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
@@ -1066,7 +1066,7 @@ Desktop backgound color - `#1b2d2d`
     <WindowStyle>
         <Font>Sans-8</Font>
         <Width>4</Width>
-        <Height>37</Height>
+        <Height>39</Height>
         <Corner>0</Corner>
         <Foreground>#eeeeee</Foreground>
         <Background>#555555</Background>
@@ -1082,8 +1082,8 @@ Desktop backgound color - `#1b2d2d`
     <TrayStyle decorations="motif">
         <Font>Sans-9</Font>
         <Foreground>#eeeeee</Foreground>
-        <Background>#252525</Background>
-        <Outline>#252525</Outline>
+        <Background>#1e1e1e</Background>
+        <Outline>#1e1e1e</Outline>
         <Opacity>1</Opacity>
     </TrayStyle>
     <TaskListStyle list="all">
