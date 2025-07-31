@@ -136,4 +136,4 @@ linux theming files
 &nbsp;
 
 ### License
-[BSD Zero Clause License](https://github.com/e33io/theming/blob/main/LICENSE)
+[The Unlicense](https://github.com/e33io/theming/blob/main/LICENSE)
