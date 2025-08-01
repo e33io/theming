@@ -410,7 +410,7 @@ client.background       #7f7f7f
 
 &nbsp;
 
-## Yaru-Dark-Blue
+## Yaru-Blue-Dark
 
 Desktop backgound color - `#202b35`
 
@@ -444,7 +444,7 @@ client.background       #7f7f7f
 
 &nbsp;
 
-## Yaru-Dark-Green
+## Yaru-Green-Dark
 
 Desktop backgound color - `#1b2d27`
 
@@ -478,7 +478,7 @@ client.background       #7f7f7f
 
 &nbsp;
 
-## Yaru-Dark-Orange
+## Yaru-Orange-Dark
 
 Desktop backgound color - `#362620`
 
@@ -512,7 +512,7 @@ client.background       #7f7f7f
 
 &nbsp;
 
-## Yaru-Dark-Purple
+## Yaru-Purple-Dark
 
 Desktop backgound color - `#2b2640`
 
@@ -546,7 +546,7 @@ client.background       #7f7f7f
 
 &nbsp;
 
-## Yaru-Dark-Sage
+## Yaru-Sage-Dark
 
 Desktop backgound color - `#232b25`
 
@@ -580,7 +580,7 @@ client.background       #7f7f7f
 
 &nbsp;
 
-## Yaru-Dark-Teal
+## Yaru-Teal-Dark
 
 Desktop backgound color - `#1b2d2d`
 

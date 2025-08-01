@@ -793,7 +793,7 @@ Desktop backgound color - `#1b2c2e`
 
 &nbsp;
 
-## Yaru-Dark-Blue
+## Yaru-Blue-Dark
 
 Desktop backgound color - `#202b35`
 
@@ -859,7 +859,7 @@ Desktop backgound color - `#202b35`
 
 &nbsp;
 
-## Yaru-Dark-Green
+## Yaru-Green-Dark
 
 Desktop backgound color - `#1b2d27`
 
@@ -925,7 +925,7 @@ Desktop backgound color - `#1b2d27`
 
 &nbsp;
 
-## Yaru-Dark-Orange
+## Yaru-Orange-Dark
 
 Desktop backgound color - `#362620`
 
@@ -991,7 +991,7 @@ Desktop backgound color - `#362620`
 
 &nbsp;
 
-## Yaru-Dark-Purple
+## Yaru-Purple-Dark
 
 Desktop backgound color - `#2b2640`
 
@@ -1057,7 +1057,7 @@ Desktop backgound color - `#2b2640`
 
 &nbsp;
 
-## Yaru-Dark-Sage
+## Yaru-Sage-Dark
 
 Desktop backgound color - `#232b25`
 
@@ -1123,7 +1123,7 @@ Desktop backgound color - `#232b25`
 
 &nbsp;
 
-## Yaru-Dark-Teal
+## Yaru-Teal-Dark
 
 Desktop backgound color - `#1b2d2d`
 
