@@ -7,9 +7,13 @@ linux theming files
 ## theming install scripts (linked to [scripts](https://github.com/e33io/scripts) repo)
 - [set-i3-theming](https://github.com/e33io/scripts/blob/main/set-i3-theming.sh) - select and set theming for i3 and applications
 - [set-jwm-theming](https://github.com/e33io/scripts/blob/main/set-jwm-theming.sh) - select and set theming for JWM and applications
+- [set-xfce-theming](https://github.com/e33io/scripts/blob/main/set-xfce-theming.sh) - select and set theming for Xfce and applications
+- [install-dark-mod-themes](https://github.com/e33io/scripts/blob/main/install-dark-mod-themes.sh) - install Mint Dark Mod themes on Debian or Arch
+- [install-dark-yaru-themes](https://github.com/e33io/scripts/blob/main/install-dark-yaru-themes.sh) - install selected Yaru Dark themes on Debian or Arch
 - [install-mint-themes](https://github.com/e33io/scripts/blob/main/install-mint-themes.sh) - install Linux Mint themes and icons on Debian
 - [install-mint-themes-arch](https://github.com/e33io/scripts/blob/main/install-mint-themes-arch.sh) - install Linux Mint themes and icons on Arch
 - [install-yaru-themes](https://github.com/e33io/scripts/blob/main/install-yaru-themes.sh) - install Yaru themes and icons on Debian
+- [install-yaru-themes-arch](https://github.com/e33io/scripts/blob/main/install-yaru-themes-arch.sh) - install Yaru themes and icons on Arch
 
 &nbsp;
 
