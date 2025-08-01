@@ -116,7 +116,7 @@ linux theming files
 - Yaru Dark themes
 	- [Yaru-Blue-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-blue-dark)
 	- [Yaru-Green-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-viridian-dark)
-	- [Yaru-Orange-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-orange-dark)
+	- [Yaru-Orange-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-dark)
 	- [Yaru-Purple-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-purple-dark)
 	- [Yaru-Sage-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-sage-dark)
 	- [Yaru-Teal-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-prussiangreen-dark)
