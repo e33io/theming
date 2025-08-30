@@ -9,7 +9,7 @@ Desktop background color - `#202a36`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>Sans-8</Font>
+        <Font align="center">Sans-8</Font>
         <Width>4</Width>
         <Height>39</Height>
         <Corner>0</Corner>
@@ -75,7 +75,7 @@ Desktop background color - `#202a36`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>Sans-8</Font>
+        <Font align="center">Sans-8</Font>
         <Width>4</Width>
         <Height>39</Height>
         <Corner>0</Corner>
@@ -140,7 +140,7 @@ Desktop background color - `#303e50`
 
 ```
     <WindowStyle>
-        <Font>Sans-8</Font>
+        <Font align="center">Sans-8</Font>
         <Width>4</Width>
         <Height>39</Height>
         <Corner>0</Corner>
@@ -206,7 +206,7 @@ Desktop backgound color - `#32271e`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>Sans-8</Font>
+        <Font align="center">Sans-8</Font>
         <Width>4</Width>
         <Height>39</Height>
         <Corner>0</Corner>
@@ -272,7 +272,7 @@ Desktop backgound color - `#1b2d29`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>Sans-8</Font>
+        <Font align="center">Sans-8</Font>
         <Width>4</Width>
         <Height>39</Height>
         <Corner>0</Corner>
@@ -338,7 +338,7 @@ Desktop backgound color - `#202a35`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>Sans-8</Font>
+        <Font align="center">Sans-8</Font>
         <Width>4</Width>
         <Height>39</Height>
         <Corner>0</Corner>
@@ -404,7 +404,7 @@ Desktop backgound color - `#1b2d20`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>Sans-8</Font>
+        <Font align="center">Sans-8</Font>
         <Width>4</Width>
         <Height>39</Height>
         <Corner>0</Corner>
@@ -470,7 +470,7 @@ Desktop backgound color - `#282a2c`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>Sans-8</Font>
+        <Font align="center">Sans-8</Font>
         <Width>4</Width>
         <Height>39</Height>
         <Corner>0</Corner>
@@ -536,7 +536,7 @@ Desktop backgound color - `#352620`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>Sans-8</Font>
+        <Font align="center">Sans-8</Font>
         <Width>4</Width>
         <Height>39</Height>
         <Corner>0</Corner>
@@ -602,7 +602,7 @@ Desktop backgound color - `#2e253e`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>Sans-8</Font>
+        <Font align="center">Sans-8</Font>
         <Width>4</Width>
         <Height>39</Height>
         <Corner>0</Corner>
@@ -668,7 +668,7 @@ Desktop backgound color - `#441e20`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>Sans-8</Font>
+        <Font align="center">Sans-8</Font>
         <Width>4</Width>
         <Height>39</Height>
         <Corner>0</Corner>
@@ -734,7 +734,7 @@ Desktop backgound color - `#1b2c2e`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>Sans-8</Font>
+        <Font align="center">Sans-8</Font>
         <Width>4</Width>
         <Height>39</Height>
         <Corner>0</Corner>
@@ -800,7 +800,7 @@ Desktop backgound color - `#202b35`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>Sans-8</Font>
+        <Font align="center">Sans-8</Font>
         <Width>4</Width>
         <Height>39</Height>
         <Corner>0</Corner>
@@ -866,7 +866,7 @@ Desktop backgound color - `#32291e`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>Sans-8</Font>
+        <Font align="center">Sans-8</Font>
         <Width>4</Width>
         <Height>39</Height>
         <Corner>0</Corner>
@@ -932,7 +932,7 @@ Desktop backgound color - `#1b2d27`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>Sans-8</Font>
+        <Font align="center">Sans-8</Font>
         <Width>4</Width>
         <Height>39</Height>
         <Corner>0</Corner>
@@ -998,7 +998,7 @@ Desktop backgound color - `#362620`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>Sans-8</Font>
+        <Font align="center">Sans-8</Font>
         <Width>4</Width>
         <Height>39</Height>
         <Corner>0</Corner>
@@ -1064,7 +1064,7 @@ Desktop backgound color - `#2b2640`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>Sans-8</Font>
+        <Font align="center">Sans-8</Font>
         <Width>4</Width>
         <Height>39</Height>
         <Corner>0</Corner>
@@ -1196,7 +1196,7 @@ Desktop backgound color - `#1b2d2d`
 ```
     <!-- Visual styles -->
     <WindowStyle>
-        <Font>Sans-8</Font>
+        <Font align="center">Sans-8</Font>
         <Width>4</Width>
         <Height>39</Height>
         <Corner>0</Corner>
