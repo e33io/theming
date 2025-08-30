@@ -10,10 +10,8 @@ linux theming files
 - [set-xfce-theming](https://github.com/e33io/scripts/blob/main/set-xfce-theming.sh) - select and set theming for Xfce and applications
 - [install-dark-mod-themes](https://github.com/e33io/scripts/blob/main/install-dark-mod-themes.sh) - install Mint Dark Mod themes on Debian or Arch
 - [install-dark-yaru-themes](https://github.com/e33io/scripts/blob/main/install-dark-yaru-themes.sh) - install selected Yaru Dark themes on Debian or Arch
-- [install-mint-themes](https://github.com/e33io/scripts/blob/main/install-mint-themes.sh) - install Linux Mint themes and icons on Debian
-- [install-mint-themes-arch](https://github.com/e33io/scripts/blob/main/install-mint-themes-arch.sh) - install Linux Mint themes and icons on Arch
-- [install-yaru-themes](https://github.com/e33io/scripts/blob/main/install-yaru-themes.sh) - install Yaru themes and icons on Debian
-- [install-yaru-themes-arch](https://github.com/e33io/scripts/blob/main/install-yaru-themes-arch.sh) - install Yaru themes and icons on Arch
+- [install-mint-themes](https://github.com/e33io/scripts/blob/main/install-mint-themes.sh) - install Linux Mint themes and icons on Debian or Arch
+- [install-yaru-themes](https://github.com/e33io/scripts/blob/main/install-yaru-themes.sh) - install Yaru themes and icons on Debian or Arch
 
 &nbsp;
 
@@ -32,6 +30,7 @@ linux theming files
 	- [Mint-Y-Dark-Red](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#mint-y-dark-red)
 	- [Mint-Y-Dark-Teal](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#mint-y-dark-teal)
 	- [Yaru-Blue-Dark](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#yaru-blue-dark)
+	- [Yaru-Brown-Dark](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#yaru-brown-dark)
 	- [Yaru-Green-Dark](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#yaru-green-dark)
 	- [Yaru-Orange-Dark](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#yaru-orange-dark)
 	- [Yaru-Purple-Dark](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#yaru-purple-dark)
@@ -51,6 +50,7 @@ linux theming files
 	- [Mint-Y-Dark-Red](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Mint-Y-Dark-Red)
 	- [Mint-Y-Dark-Teal](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Mint-Y-Dark-Teal)
 	- [Yaru-Blue-Dark](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Yaru-Blue-Dark)
+	- [Yaru-Brown-Dark](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Yaru-Brown-Dark)
 	- [Yaru-Green-Dark](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Yaru-Green-Dark)
 	- [Yaru-Orange-Dark](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Yaru-Orange-Dark)
 	- [Yaru-Purple-Dark](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Yaru-Purple-Dark)
@@ -119,6 +119,7 @@ linux theming files
 	- [Mint-Y-Dark-Mod-Teal](https://github.com/e33io/theming/blob/main/gtk/Mint-Y-Dark-Mod-Teal)
 - Yaru Dark themes
 	- [Yaru-Blue-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-blue-dark)
+	- [Yaru-Brown-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-wartybrown-dark)
 	- [Yaru-Green-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-viridian-dark)
 	- [Yaru-Orange-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-dark)
 	- [Yaru-Purple-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-purple-dark)
@@ -140,6 +141,7 @@ linux theming files
 	- [Mint-Y-Dark-Mod-Teal](https://github.com/e33io/theming/blob/main/Kvantum/Mint-Y-Dark-Mod-Teal)
 - Yaru Dark themes
 	- [Yaru-Blue-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-blue-dark)
+	- [Yaru-Brown-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-wartybrown-dark)
 	- [Yaru-Green-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-viridian-dark)
 	- [Yaru-Orange-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-orange-dark)
 	- [Yaru-Purple-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-purple-dark)
