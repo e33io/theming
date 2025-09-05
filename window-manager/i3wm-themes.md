@@ -72,7 +72,7 @@ client.background       #7f7f7f
 
 ## Adwaita-Light
 
-Desktop background color - `#303e50`
+Desktop background color - `#2d3b4c`
 
 ```
 bar {

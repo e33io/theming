@@ -136,7 +136,7 @@ Desktop background color - `#202a36`
 
 ## Adwaita-Light
 
-Desktop background color - `#303e50`
+Desktop background color - `#2d3b4c`
 
 ```
     <WindowStyle>
