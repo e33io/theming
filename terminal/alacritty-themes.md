@@ -2,35 +2,7 @@
 
 &nbsp;
 
-## Monokai Mod (.yml version)
-```
-colors:
-  primary:
-    background: '#1e1e1e'
-    foreground: '#dddddd'
-  normal:
-    black:   '#0f0f0f'
-    red:     '#fb2c67'
-    green:   '#35b451'
-    yellow:  '#fce14f'
-    blue:    '#23a0de'
-    magenta: '#8478df'
-    cyan:    '#22cacb'
-    white:   '#cccccc'
-  bright:
-    black:   '#fd9353'
-    red:     '#fc618d'
-    green:   '#53cc6d'
-    yellow:  '#fce566'
-    blue:    '#4db2e4'
-    magenta: '#948ae3'
-    cyan:    '#40dedf'
-    white:   '#dddddd'
-```
-
-&nbsp;
-
-## Monokai Mod (.toml version)
+## Monokai Mod
 ```
 [colors.bright]
 black = "#fd9353"

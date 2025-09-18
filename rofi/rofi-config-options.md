@@ -23,7 +23,6 @@ configuration {
     font: "sans-serif 9";
     icon-theme: "Papirus-Dark";
     dpi: 192;
-    yoffset: -275; /* offset only needed for Rofi version 1.7.3 or older */
 }
 ```
 

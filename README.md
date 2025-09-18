@@ -6,6 +6,8 @@ linux theming files
 
 ## theming install scripts (linked to [scripts](https://github.com/e33io/scripts) repo)
 - [set-i3-theming](https://github.com/e33io/scripts/blob/main/set-i3-theming.sh) - select and set theming for i3 and applications
+- [set-dk-theming](https://github.com/e33io/scripts/blob/main/set-dk-theming.sh) - select and set theming for dk and applications
+- [set-spectrwm-theming](https://github.com/e33io/scripts/blob/main/set-spectrwm-theming.sh) - select and set theming for spectrwm and applications
 - [set-jwm-theming](https://github.com/e33io/scripts/blob/main/set-jwm-theming.sh) - select and set theming for JWM and applications
 - [set-xfce-theming](https://github.com/e33io/scripts/blob/main/set-xfce-theming.sh) - select and set theming for Xfce and applications
 - [install-dark-mod-themes](https://github.com/e33io/scripts/blob/main/install-dark-mod-themes.sh) - install Mint Dark Mod themes on Debian or Arch
@@ -16,46 +18,6 @@ linux theming files
 &nbsp;
 
 ## window manager themes
-- [i3wm themes](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md)
-	- [Adwaita-Dark](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#adwaita-dark)
-	- [Adwaita-Darker](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#adwaita-darker)
-	- [Adwaita-Light](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#adwaita-light)
-	- [Mint-L-Dark-Brown](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#mint-l-dark-brown)
-	- [Mint-L-Dark-Teal](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#mint-l-dark-teal)
-	- [Mint-Y-Dark-Blue](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#mint-y-dark-blue)
-	- [Mint-Y-Dark-Green](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#mint-y-dark-green)
-	- [Mint-Y-Dark-Grey](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#mint-y-dark-grey)
-	- [Mint-Y-Dark-Orange](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#mint-y-dark-orange)
-	- [Mint-Y-Dark-Purple](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#mint-y-dark-purple)
-	- [Mint-Y-Dark-Red](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#mint-y-dark-red)
-	- [Mint-Y-Dark-Teal](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#mint-y-dark-teal)
-	- [Yaru-Blue-Dark](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#yaru-blue-dark)
-	- [Yaru-Brown-Dark](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#yaru-brown-dark)
-	- [Yaru-Green-Dark](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#yaru-green-dark)
-	- [Yaru-Orange-Dark](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#yaru-orange-dark)
-	- [Yaru-Purple-Dark](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#yaru-purple-dark)
-	- [Yaru-Sage-Dark](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#yaru-sage-dark)
-	- [Yaru-Teal-Dark](https://github.com/e33io/theming/blob/main/window-manager/i3wm-themes.md#yaru-teal-dark)
-- [JWM themes](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes) (linked to [opt-dots](https://github.com/e33io/opt-dots) repo)
-	- [Adwaita-Dark](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Adwaita-Dark)
-	- [Adwaita-Darker](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Adwaita-Darker)
-	- [Adwaita-Light](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Adwaita-Light)
-	- [Mint-L-Dark-Brown](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Mint-L-Dark-Brown)
-	- [Mint-L-Dark-Teal](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Mint-L-Dark-Teal)
-	- [Mint-Y-Dark-Blue](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Mint-Y-Dark-Blue)
-	- [Mint-Y-Dark-Green](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Mint-Y-Dark-Green)
-	- [Mint-Y-Dark-Grey](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Mint-Y-Dark-Grey)
-	- [Mint-Y-Dark-Orange](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Mint-Y-Dark-Orange)
-	- [Mint-Y-Dark-Purple](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Mint-Y-Dark-Purple)
-	- [Mint-Y-Dark-Red](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Mint-Y-Dark-Red)
-	- [Mint-Y-Dark-Teal](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Mint-Y-Dark-Teal)
-	- [Yaru-Blue-Dark](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Yaru-Blue-Dark)
-	- [Yaru-Brown-Dark](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Yaru-Brown-Dark)
-	- [Yaru-Green-Dark](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Yaru-Green-Dark)
-	- [Yaru-Orange-Dark](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Yaru-Orange-Dark)
-	- [Yaru-Purple-Dark](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Yaru-Purple-Dark)
-	- [Yaru-Sage-Dark](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Yaru-Sage-Dark)
-	- [Yaru-Teal-Dark](https://github.com/e33io/opt-dots/blob/main/jwm/.config/jwm/themes/JWM-Yaru-Teal-Dark)
 - [Xfwm4 themes](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes) (linked to [opt-dots](https://github.com/e33io/opt-dots) repo)
 	- [Border-Only-1px](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/Border-Only-1px)
 	- [Border-Only-2px](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/Border-Only-2px)
@@ -79,8 +41,7 @@ linux theming files
 
 ## terminal themes
 - [Alacritty themes](https://github.com/e33io/theming/blob/main/terminal/alacritty-themes.md)
-	- [Monokai Mod](https://github.com/e33io/theming/blob/main/terminal/alacritty-themes.md#monokai-mod-yml-version) (.yml version)
-	- [Monokai Mod](https://github.com/e33io/theming/blob/main/terminal/alacritty-themes.md#monokai-mod-toml-version) (.toml version)
+	- [Monokai Mod](https://github.com/e33io/theming/blob/main/terminal/alacritty-themes.md#monokai-mod)
 - [Kitty themes](https://github.com/e33io/theming/blob/main/terminal/kitty-themes.md)
 	- [Monokai Mod](https://github.com/e33io/theming/blob/main/terminal/kitty-themes.md#monokai-mod)
 	- [Monokai Mod Light](https://github.com/e33io/theming/blob/main/terminal/kitty-themes.md#monokai-mod-light)
