@@ -8,7 +8,6 @@ linux theming files
 - [set-theming-dk](https://github.com/e33io/scripts/blob/main/set-theming-dk.sh) - select and set theming for dk and applications
 - [set-theming-i3](https://github.com/e33io/scripts/blob/main/set-theming-i3.sh) - select and set theming for i3 and applications
 - [set-theming-jwm](https://github.com/e33io/scripts/blob/main/set-theming-jwm.sh) - select and set theming for JWM and applications
-- [set-theming-spectrwm](https://github.com/e33io/scripts/blob/main/set-theming-spectrwm.sh) - select and set theming for spectrwm and applications
 - [set-theming-xfce](https://github.com/e33io/scripts/blob/main/set-theming-xfce.sh) - select and set theming for Xfce and applications
 - [install-dark-mod-themes](https://github.com/e33io/scripts/blob/main/install-dark-mod-themes.sh) - install Mint Dark Mod themes on Debian or Arch
 - [install-dark-yaru-themes](https://github.com/e33io/scripts/blob/main/install-dark-yaru-themes.sh) - install selected Yaru Dark themes on Debian or Arch
