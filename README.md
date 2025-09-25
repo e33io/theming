@@ -69,11 +69,12 @@ linux theming files
 &nbsp;
 
 ## GTK themes
-- Mint Dark Mod themes (modified Linux Mint themes with a darker appearance)
+- Mint Dark Mod themes (dark themes modified for a darker appearance)
 	- [Mint-L-Dark-Mod-Brown](https://github.com/e33io/theming/blob/main/gtk/Mint-L-Dark-Mod-Brown)
 	- [Mint-L-Dark-Mod-Teal](https://github.com/e33io/theming/blob/main/gtk/Mint-L-Dark-Mod-Teal)
 	- [Mint-Y-Dark-Mod-Blue](https://github.com/e33io/theming/blob/main/gtk/Mint-Y-Dark-Mod-Blue)
 	- [Mint-Y-Dark-Mod-Green](https://github.com/e33io/theming/blob/main/gtk/Mint-Y-Dark-Mod-Green)
+	- [Mint-Y-Light-Mod-Green](https://github.com/e33io/theming/blob/main/gtk/Mint-Y-Light-Mod-Green)
 	- [Mint-Y-Dark-Mod-Grey](https://github.com/e33io/theming/blob/main/gtk/Mint-Y-Dark-Mod-Grey)
 	- [Mint-Y-Dark-Mod-Orange](https://github.com/e33io/theming/blob/main/gtk/Mint-Y-Dark-Mod-Orange)
 	- [Mint-Y-Dark-Mod-Purple](https://github.com/e33io/theming/blob/main/gtk/Mint-Y-Dark-Mod-Purple)
@@ -84,6 +85,7 @@ linux theming files
 	- [Yaru-Brown-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-wartybrown-dark)
 	- [Yaru-Green-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-viridian-dark)
 	- [Yaru-Orange-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-dark)
+	- [Yaru-Orange-Light](https://github.com/e33io/theming/blob/main/gtk/Yaru)
 	- [Yaru-Purple-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-purple-dark)
 	- [Yaru-Sage-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-sage-dark)
 	- [Yaru-Teal-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-prussiangreen-dark)
@@ -91,11 +93,12 @@ linux theming files
 &nbsp;
 
 ## Kvantum (Qt) themes
-- Mint Dark Mod themes (modified for a darker appearance)
+- Mint Dark Mod themes (dark themes modified for a darker appearance)
 	- [Mint-L-Dark-Mod-Brown](https://github.com/e33io/theming/blob/main/Kvantum/Mint-L-Dark-Mod-Brown)
 	- [Mint-L-Dark-Mod-Teal](https://github.com/e33io/theming/blob/main/Kvantum/Mint-L-Dark-Mod-Teal)
 	- [Mint-Y-Dark-Mod-Blue](https://github.com/e33io/theming/blob/main/Kvantum/Mint-Y-Dark-Mod-Blue)
 	- [Mint-Y-Dark-Mod-Green](https://github.com/e33io/theming/blob/main/Kvantum/Mint-Y-Dark-Mod-Green)
+	- [Mint-Y-Light-Mod-Green](https://github.com/e33io/theming/blob/main/Kvantum/Mint-Y-Light-Mod-Green)
 	- [Mint-Y-Dark-Mod-Grey](https://github.com/e33io/theming/blob/main/Kvantum/Mint-Y-Dark-Mod-Grey)
 	- [Mint-Y-Dark-Mod-Orange](https://github.com/e33io/theming/blob/main/Kvantum/Mint-Y-Dark-Mod-Orange)
 	- [Mint-Y-Dark-Mod-Purple](https://github.com/e33io/theming/blob/main/Kvantum/Mint-Y-Dark-Mod-Purple)
@@ -106,6 +109,7 @@ linux theming files
 	- [Yaru-Brown-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-wartybrown-dark)
 	- [Yaru-Green-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-viridian-dark)
 	- [Yaru-Orange-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-orange-dark)
+	- [Yaru-Orange-Light](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-orange)
 	- [Yaru-Purple-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-purple-dark)
 	- [Yaru-Sage-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-sage-dark)
 	- [Yaru-Teal-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-prussiangreen-dark)
