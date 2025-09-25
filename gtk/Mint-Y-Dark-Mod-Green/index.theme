@@ -7,6 +7,6 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=Mint-Y-Dark-Mod-Green
 MetacityTheme=Mint-Y
-IconTheme=Mint-Y-Green
-CursorTheme=Bibata-Modern-Classic
+IconTheme=Mint-Y
+CursorTheme=DMZ-Black
 ButtonLayout=:minimize,maximize,close

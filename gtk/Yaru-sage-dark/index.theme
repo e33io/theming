@@ -9,8 +9,7 @@ GtkTheme=Yaru-sage-dark
 MetacityTheme=Yaru-dark
 IconTheme=Yaru-sage-dark
 CursorTheme=Yaru
-CursorSize=24
 X-Yaru-Dark=true
 X-Yaru-Accent-Name=sage
 X-Yaru-Accent-Color=#657B69
-/build/reproducible-path/yaru-theme-24.04.3/obj-x86_64-linux-gnu/gtk/src/Yaru-sage-dark-sage-accent-color-info.scss:42 DEBUG: Contrast optimized accent is #637967
+X-Yaru-Accent-Color-Optimized=#5f7463
