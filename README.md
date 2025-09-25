@@ -29,6 +29,7 @@ linux theming files
 	- [System-44](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/System-44)
 	- [System-48](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/System-48)
 	- [System-No-Titlebar](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/System-No-Titlebar)
+- [Openbox themes](https://github.com/e33io/opt-dots/tree/main/openbox/.themes) (linked to [opt-dots](https://github.com/e33io/opt-dots) repo)
 
 &nbsp;
 
