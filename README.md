@@ -5,8 +5,8 @@ linux theming files
 &nbsp;
 
 ## theming install scripts (linked to [scripts](https://github.com/e33io/scripts) repo)
-- [set-theming-dk](https://github.com/e33io/scripts/blob/main/set-theming-dk.sh) - select and set theming for dk and applications
 - [set-theming-i3](https://github.com/e33io/scripts/blob/main/set-theming-i3.sh) - select and set theming for i3 and applications
+- [set-theming-dk](https://github.com/e33io/scripts/blob/main/set-theming-dk.sh) - select and set theming for dk and applications
 - [set-theming-jwm](https://github.com/e33io/scripts/blob/main/set-theming-jwm.sh) - select and set theming for JWM and applications
 - [set-theming-openbox](https://github.com/e33io/scripts/blob/main/set-theming-openbox.sh) - select and set theming for Openbox and applications
 - [set-theming-xfce](https://github.com/e33io/scripts/blob/main/set-theming-xfce.sh) - select and set theming for Xfce and applications
