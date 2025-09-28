@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Mint-Orange-Dark
+Comment=A modified Linux Mint dark theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Mint-Orange-Dark
+MetacityTheme=Mint-Y
+IconTheme=Mint-Y-Orange
+CursorTheme=DMZ-Black
+ButtonLayout=:minimize,maximize,close
