@@ -1,6 +1,6 @@
 [%General]
 author=Armanelgtron
-comment=A theme based on Mint-Y, adapted from KvArc
+comment=A Kvantum theme to match Linux Mint GTK theme colors
 x11drag=menubar_and_primary_toolbar
 alt_mnemonic=true
 left_tabs=true
