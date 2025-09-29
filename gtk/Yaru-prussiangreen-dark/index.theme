@@ -7,8 +7,8 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=Yaru-prussiangreen-dark
 MetacityTheme=Yaru-dark
-IconTheme=Papirus-Dark
-CursorTheme=Adwaita
+IconTheme=Yaru-prussiangreen-dark
+CursorTheme=Yaru
 X-Yaru-Dark=true
 X-Yaru-Accent-Name=prussiangreen
 X-Yaru-Accent-Color=#308280
