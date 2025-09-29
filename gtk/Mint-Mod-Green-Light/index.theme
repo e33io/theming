@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Mint-Purple-Dark
-Comment=A modified Linux Mint dark theme
+Name=Mint-Mod-Green-Light
+Comment=A modified Linux Mint light theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Mint-Purple-Dark
+GtkTheme=Mint-Mod-Green-Light
 MetacityTheme=Mint-Y
-IconTheme=Mint-Y-Purple
+IconTheme=Mint-Y
 CursorTheme=DMZ-Black
 ButtonLayout=:minimize,maximize,close
