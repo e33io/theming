@@ -71,38 +71,3 @@
 ```
 
 &nbsp;
-
-## Dracula Mod
-```
-! X colors (Dracula Mod) --------
-*cursorColor: #f8f8f2
-*foreground:  #f8f8f2
-*background:  #282a36
-! black -------------------------
-*color0:  #21222c
-*color8:  #a0aac8
-! red ---------------------------
-*color1:  #ff5555
-*color9:  #ff6e6e
-! green -------------------------
-*color2:  #50fa7b
-*color10: #69ff94
-! yellow ------------------------
-*color3:  #f1fa8c
-*color11: #ffffa5
-! purple ------------------------
-*color4:  #bd93f9
-*color12: #d6acff
-! pink --------------------------
-*color5:  #ff79c6
-*color13: #ff92df
-! cyan --------------------------
-*color6:  #66e1fc
-*color14: #8be9fd
-! white -------------------------
-*color7:  #eeeede
-*color15: #f8f8f2
-! -------------------------------
-```
-
-&nbsp;
