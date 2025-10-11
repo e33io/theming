@@ -18,7 +18,7 @@ linux theming files
 &nbsp;
 
 ## window manager themes
-- [Xfwm4 themes](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes) (linked to [opt-dots](https://github.com/e33io/extra) repo)
+- [Xfwm4 themes](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes) (linked to [extra](https://github.com/e33io/extra) repo)
 	- [Border-Only-1px](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/Border-Only-1px)
 	- [Border-Only-2px](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/Border-Only-2px)
 	- [Border-Only-3px](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/Border-Only-3px)
@@ -30,7 +30,7 @@ linux theming files
 	- [System-44](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/System-44)
 	- [System-48](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/System-48)
 	- [System-No-Titlebar](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/System-No-Titlebar)
-- [Openbox themes](https://github.com/e33io/extra/tree/main/openbox/.themes) (linked to [opt-dots](https://github.com/e33io/extra) repo)
+- [Openbox themes](https://github.com/e33io/extra/tree/main/openbox/.themes) (linked to [extra](https://github.com/e33io/extra) repo)
 
 &nbsp;
 
@@ -49,7 +49,7 @@ linux theming files
 - [X Colors themes](https://github.com/e33io/theming/blob/main/terminal/x-colors-themes.md)
 	- [Monokai Mod](https://github.com/e33io/theming/blob/main/terminal/x-colors-themes.md#monokai-mod)
 	- [Monokai Mod Light](https://github.com/e33io/theming/blob/main/terminal/x-colors-themes.md#monokai-mod-light)
-- [Xfce Terminal themes](https://github.com/e33io/extra/blob/main/xfce/usr/share/xfce4/terminal/colorschemes) (linked to [opt-dots](https://github.com/e33io/extra) repo)
+- [Xfce Terminal themes](https://github.com/e33io/extra/blob/main/xfce/usr/share/xfce4/terminal/colorschemes) (linked to [extra](https://github.com/e33io/extra) repo)
 	- [Monokai Mod](https://github.com/e33io/extra/blob/main/xfce/usr/share/xfce4/terminal/colorschemes/monokai-mod.theme)
 	- [Monokai Mod Light](https://github.com/e33io/extra/blob/main/xfce/usr/share/xfce4/terminal/colorschemes/monokai-mod-light.theme)
 
