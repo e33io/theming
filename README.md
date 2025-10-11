@@ -18,19 +18,19 @@ linux theming files
 &nbsp;
 
 ## window manager themes
-- [Xfwm4 themes](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes) (linked to [opt-dots](https://github.com/e33io/opt-dots) repo)
-	- [Border-Only-1px](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/Border-Only-1px)
-	- [Border-Only-2px](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/Border-Only-2px)
-	- [Border-Only-3px](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/Border-Only-3px)
-	- [Border-Only-4px](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/Border-Only-4px)
-	- [System-22](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/System-22)
-	- [System-24](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/System-24)
-	- [System-32](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/System-32)
-	- [System-40](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/System-40)
-	- [System-44](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/System-44)
-	- [System-48](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/System-48)
-	- [System-No-Titlebar](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/themes/System-No-Titlebar)
-- [Openbox themes](https://github.com/e33io/opt-dots/tree/main/openbox/.themes) (linked to [opt-dots](https://github.com/e33io/opt-dots) repo)
+- [Xfwm4 themes](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes) (linked to [opt-dots](https://github.com/e33io/extra) repo)
+	- [Border-Only-1px](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/Border-Only-1px)
+	- [Border-Only-2px](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/Border-Only-2px)
+	- [Border-Only-3px](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/Border-Only-3px)
+	- [Border-Only-4px](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/Border-Only-4px)
+	- [System-22](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/System-22)
+	- [System-24](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/System-24)
+	- [System-32](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/System-32)
+	- [System-40](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/System-40)
+	- [System-44](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/System-44)
+	- [System-48](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/System-48)
+	- [System-No-Titlebar](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/System-No-Titlebar)
+- [Openbox themes](https://github.com/e33io/extra/tree/main/openbox/.themes) (linked to [opt-dots](https://github.com/e33io/extra) repo)
 
 &nbsp;
 
@@ -49,9 +49,9 @@ linux theming files
 - [X Colors themes](https://github.com/e33io/theming/blob/main/terminal/x-colors-themes.md)
 	- [Monokai Mod](https://github.com/e33io/theming/blob/main/terminal/x-colors-themes.md#monokai-mod)
 	- [Monokai Mod Light](https://github.com/e33io/theming/blob/main/terminal/x-colors-themes.md#monokai-mod-light)
-- [Xfce Terminal themes](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/xfce4/terminal/colorschemes) (linked to [opt-dots](https://github.com/e33io/opt-dots) repo)
-	- [Monokai Mod](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/xfce4/terminal/colorschemes/monokai-mod.theme)
-	- [Monokai Mod Light](https://github.com/e33io/opt-dots/blob/main/xfce/usr/share/xfce4/terminal/colorschemes/monokai-mod-light.theme)
+- [Xfce Terminal themes](https://github.com/e33io/extra/blob/main/xfce/usr/share/xfce4/terminal/colorschemes) (linked to [opt-dots](https://github.com/e33io/extra) repo)
+	- [Monokai Mod](https://github.com/e33io/extra/blob/main/xfce/usr/share/xfce4/terminal/colorschemes/monokai-mod.theme)
+	- [Monokai Mod Light](https://github.com/e33io/extra/blob/main/xfce/usr/share/xfce4/terminal/colorschemes/monokai-mod-light.theme)
 
 &nbsp;
 
