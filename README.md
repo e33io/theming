@@ -52,6 +52,9 @@ linux theming files
 - [Xfce Terminal themes](https://github.com/e33io/extra/blob/main/xfce/usr/share/xfce4/terminal/colorschemes) (linked to [extra](https://github.com/e33io/extra) repo)
 	- [Monokai Mod](https://github.com/e33io/extra/blob/main/xfce/usr/share/xfce4/terminal/colorschemes/monokai-mod.theme)
 	- [Monokai Mod Light](https://github.com/e33io/extra/blob/main/xfce/usr/share/xfce4/terminal/colorschemes/monokai-mod-light.theme)
+- [COSMIC Terminal themes](https://github.com/e33io/theming/tree/main/terminal/cosmic-themes)
+	- [Monokai Mod](https://github.com/e33io/theming/blob/main/terminal/cosmic-themes/Monokai-Mod.ron)
+	- [Monokai Mod Light](https://github.com/e33io/theming/blob/main/terminal/cosmic-themes/Monokai-Mod-Light.ron)
 
 &nbsp;
 
