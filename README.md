@@ -6,9 +6,7 @@ linux theming files
 
 ## theming install scripts (linked to [scripts](https://github.com/e33io/scripts) repo)
 - [set-theming-i3](https://github.com/e33io/scripts/blob/main/set-theming-i3.sh) - select and set theming for i3 and applications
-- [set-theming-dk](https://github.com/e33io/scripts/blob/main/set-theming-dk.sh) - select and set theming for dk and applications
 - [set-theming-jwm](https://github.com/e33io/scripts/blob/main/set-theming-jwm.sh) - select and set theming for JWM and applications
-- [set-theming-openbox](https://github.com/e33io/scripts/blob/main/set-theming-openbox.sh) - select and set theming for Openbox and applications
 - [set-theming-xfce](https://github.com/e33io/scripts/blob/main/set-theming-xfce.sh) - select and set theming for Xfce and applications
 - [install-custom-mint-themes](https://github.com/e33io/scripts/blob/main/install-custom-mint-themes.sh) - install custom Mint themes on Debian or Arch
 - [install-custom-yaru-themes](https://github.com/e33io/scripts/blob/main/install-custom-yaru-themes.sh) - install custom Yaru themes on Debian or Arch
@@ -30,7 +28,6 @@ linux theming files
 	- [System-44](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/System-44)
 	- [System-48](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/System-48)
 	- [System-No-Titlebar](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/System-No-Titlebar)
-- [Openbox themes](https://github.com/e33io/extra/tree/main/openbox/.themes) (linked to [extra](https://github.com/e33io/extra) repo)
 
 &nbsp;
 
