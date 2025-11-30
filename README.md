@@ -16,23 +16,23 @@ linux theming files
 &nbsp;
 
 ## window manager themes
-- [Xfwm4 themes](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes) (linked to [extra](https://github.com/e33io/extra) repo)
-	- [Border-Only-1px](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/Border-Only-1px)
-	- [Border-Only-2px](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/Border-Only-2px)
-	- [Border-Only-3px](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/Border-Only-3px)
-	- [Border-Only-4px](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/Border-Only-4px)
-	- [System-22](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/System-22)
-	- [System-24](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/System-24)
-	- [System-32](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/System-32)
-	- [System-40](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/System-40)
-	- [System-44](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/System-44)
-	- [System-48](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/System-48)
-	- [System-No-Titlebar](https://github.com/e33io/extra/blob/main/xfce/usr/share/themes/System-No-Titlebar)
+- [Xfwm4 themes](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes) (linked to [extra](https://github.com/e33io/extra) repo)
+	- [Border-Only-1px](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/Border-Only-1px)
+	- [Border-Only-2px](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/Border-Only-2px)
+	- [Border-Only-3px](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/Border-Only-3px)
+	- [Border-Only-4px](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/Border-Only-4px)
+	- [System-22](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/System-22)
+	- [System-24](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/System-24)
+	- [System-32](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/System-32)
+	- [System-40](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/System-40)
+	- [System-44](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/System-44)
+	- [System-48](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/System-48)
+	- [System-No-Titlebar](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/System-No-Titlebar)
 
 &nbsp;
 
 ## Rofi themes and config options
-- [Rofi themes](https://github.com/e33io/dotfiles/blob/main/.config/rofi/themes) (linked to [dotfiles](https://github.com/e33io/dotfiles) repo)
+- [Rofi themes](https://github.com/e33io/core/tree/main/home/.config/rofi/themes) (linked to [core](https://github.com/e33io/core) repo)
 - [Rofi config options](https://github.com/e33io/theming/blob/main/rofi/rofi-config-options.md)
 
 &nbsp;
@@ -46,23 +46,23 @@ linux theming files
 - [X Colors themes](https://github.com/e33io/theming/blob/main/terminal/x-colors-themes.md)
 	- [Monokai Mod](https://github.com/e33io/theming/blob/main/terminal/x-colors-themes.md#monokai-mod)
 	- [Monokai Mod Light](https://github.com/e33io/theming/blob/main/terminal/x-colors-themes.md#monokai-mod-light)
-- [Xfce Terminal themes](https://github.com/e33io/extra/blob/main/xfce/usr/share/xfce4/terminal/colorschemes) (linked to [extra](https://github.com/e33io/extra) repo)
-	- [Monokai Mod](https://github.com/e33io/extra/blob/main/xfce/usr/share/xfce4/terminal/colorschemes/monokai-mod.theme)
-	- [Monokai Mod Light](https://github.com/e33io/extra/blob/main/xfce/usr/share/xfce4/terminal/colorschemes/monokai-mod-light.theme)
+- [Xfce Terminal themes](https://github.com/e33io/extra/blob/main/xfce/root/usr/share/xfce4/terminal/colorschemes) (linked to [extra](https://github.com/e33io/extra) repo)
+	- [Monokai Mod](https://github.com/e33io/extra/blob/main/xfce/root/usr/share/xfce4/terminal/colorschemes/monokai-mod.theme)
+	- [Monokai Mod Light](https://github.com/e33io/extra/blob/main/xfce/root/usr/share/xfce4/terminal/colorschemes/monokai-mod-light.theme)
 - [COSMIC Terminal themes](https://github.com/e33io/theming/tree/main/terminal/cosmic-themes)
 	- [Monokai Mod](https://github.com/e33io/theming/blob/main/terminal/cosmic-themes/Monokai-Mod.ron)
 	- [Monokai Mod Light](https://github.com/e33io/theming/blob/main/terminal/cosmic-themes/Monokai-Mod-Light.ron)
 
 &nbsp;
 
-## text editor themes (linked to [dotfiles](https://github.com/e33io/dotfiles) repo)
-- [micro editor themes](https://github.com/e33io/dotfiles/blob/main/.config/micro/colorschemes)
-	- [Monokai Mod](https://github.com/e33io/dotfiles/blob/main/.config/micro/colorschemes/monokai-mod.micro)
-	- [X Colors](https://github.com/e33io/dotfiles/blob/main/.config/micro/colorschemes/x-colors.micro)
-	- [X Colors Light](https://github.com/e33io/dotfiles/blob/main/.config/micro/colorschemes/x-colors-light.micro)
-- [Mousepad themes](https://github.com/e33io/dotfiles/blob/main/usr/share/gtksourceview-4/styles) (and other gtksourceview-based editors)
-	- [Monokai Mod](https://github.com/e33io/dotfiles/blob/main/usr/share/gtksourceview-4/styles/monokai-mod.xml)
-	- [Monokai Mod Light](https://github.com/e33io/dotfiles/blob/main/usr/share/gtksourceview-4/styles/monokai-mod-light.xml)
+## text editor themes (linked to [core](https://github.com/e33io/core) repo)
+- [micro editor themes](https://github.com/e33io/core/blob/main/home/.config/micro/colorschemes)
+	- [Monokai Mod](https://github.com/e33io/core/blob/main/home/.config/micro/colorschemes/monokai-mod.micro)
+	- [X Colors](https://github.com/e33io/core/blob/main/home/.config/micro/colorschemes/x-colors.micro)
+	- [X Colors Light](https://github.com/e33io/core/blob/main/home/.config/micro/colorschemes/x-colors-light.micro)
+- [Mousepad themes](https://github.com/e33io/core/blob/main/root/usr/share/gtksourceview-4/styles) (and other gtksourceview-based editors)
+	- [Monokai Mod](https://github.com/e33io/core/blob/main/root/usr/share/gtksourceview-4/styles/monokai-mod.xml)
+	- [Monokai Mod Light](https://github.com/e33io/core/blob/main/root/usr/share/gtksourceview-4/styles/monokai-mod-light.xml)
 
 &nbsp;
 
