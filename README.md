@@ -38,11 +38,12 @@ linux theming files
 &nbsp;
 
 ## terminal themes
-- [Alacritty themes](https://github.com/e33io/theming/blob/main/terminal/alacritty-themes.md)
-	- [Monokai Mod](https://github.com/e33io/theming/blob/main/terminal/alacritty-themes.md#monokai-mod)
 - [Kitty themes](https://github.com/e33io/theming/blob/main/terminal/kitty-themes.md)
 	- [Monokai Mod](https://github.com/e33io/theming/blob/main/terminal/kitty-themes.md#monokai-mod)
 	- [Monokai Mod Light](https://github.com/e33io/theming/blob/main/terminal/kitty-themes.md#monokai-mod-light)
+- [Alacritty themes](https://github.com/e33io/theming/blob/main/terminal/alacritty-themes.md)
+	- [Monokai Mod](https://github.com/e33io/theming/blob/main/terminal/alacritty-themes.md#monokai-mod)
+	- [Monokai Mod Light](https://github.com/e33io/theming/blob/main/terminal/alacritty-themes.md#monokai-mod-light)
 - [X Colors themes](https://github.com/e33io/theming/blob/main/terminal/x-colors-themes.md)
 	- [Monokai Mod](https://github.com/e33io/theming/blob/main/terminal/x-colors-themes.md#monokai-mod)
 	- [Monokai Mod Light](https://github.com/e33io/theming/blob/main/terminal/x-colors-themes.md#monokai-mod-light)
