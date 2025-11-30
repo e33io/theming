@@ -32,7 +32,7 @@ linux theming files
 &nbsp;
 
 ## Rofi themes and config options
-- [Rofi themes](https://github.com/e33io/dotfiles/blob/main/.config/rofi/themes) (linked to [dotfiles](https://github.com/e33io/dotfiles) repo)
+- [Rofi themes](https://github.com/e33io/core/blob/main/.config/rofi/themes) (linked to [core](https://github.com/e33io/core) repo)
 - [Rofi config options](https://github.com/e33io/theming/blob/main/rofi/rofi-config-options.md)
 
 &nbsp;
@@ -55,14 +55,14 @@ linux theming files
 
 &nbsp;
 
-## text editor themes (linked to [dotfiles](https://github.com/e33io/dotfiles) repo)
-- [micro editor themes](https://github.com/e33io/dotfiles/blob/main/.config/micro/colorschemes)
-	- [Monokai Mod](https://github.com/e33io/dotfiles/blob/main/.config/micro/colorschemes/monokai-mod.micro)
-	- [X Colors](https://github.com/e33io/dotfiles/blob/main/.config/micro/colorschemes/x-colors.micro)
-	- [X Colors Light](https://github.com/e33io/dotfiles/blob/main/.config/micro/colorschemes/x-colors-light.micro)
-- [Mousepad themes](https://github.com/e33io/dotfiles/blob/main/usr/share/gtksourceview-4/styles) (and other gtksourceview-based editors)
-	- [Monokai Mod](https://github.com/e33io/dotfiles/blob/main/usr/share/gtksourceview-4/styles/monokai-mod.xml)
-	- [Monokai Mod Light](https://github.com/e33io/dotfiles/blob/main/usr/share/gtksourceview-4/styles/monokai-mod-light.xml)
+## text editor themes (linked to [core](https://github.com/e33io/core) repo)
+- [micro editor themes](https://github.com/e33io/core/blob/main/.config/micro/colorschemes)
+	- [Monokai Mod](https://github.com/e33io/core/blob/main/.config/micro/colorschemes/monokai-mod.micro)
+	- [X Colors](https://github.com/e33io/core/blob/main/.config/micro/colorschemes/x-colors.micro)
+	- [X Colors Light](https://github.com/e33io/core/blob/main/.config/micro/colorschemes/x-colors-light.micro)
+- [Mousepad themes](https://github.com/e33io/core/blob/main/usr/share/gtksourceview-4/styles) (and other gtksourceview-based editors)
+	- [Monokai Mod](https://github.com/e33io/core/blob/main/usr/share/gtksourceview-4/styles/monokai-mod.xml)
+	- [Monokai Mod Light](https://github.com/e33io/core/blob/main/usr/share/gtksourceview-4/styles/monokai-mod-light.xml)
 
 &nbsp;
 
