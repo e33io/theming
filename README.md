@@ -5,34 +5,11 @@ linux theming files
 &nbsp;
 
 ## theming install scripts (linked to [scripts](https://github.com/e33io/scripts) repo)
-- [set-theming-i3](https://github.com/e33io/scripts/blob/main/set-theming-i3.sh) - select and set theming for i3 and applications
-- [set-theming-jwm](https://github.com/e33io/scripts/blob/main/set-theming-jwm.sh) - select and set theming for JWM and applications
-- [set-theming-xfce](https://github.com/e33io/scripts/blob/main/set-theming-xfce.sh) - select and set theming for Xfce and applications
 - [install-custom-themes](https://github.com/e33io/scripts/blob/main/install-custom-themes.sh) - install custom Mint and Yaru themes on Debian or Arch
 - [install-mint-themes](https://github.com/e33io/scripts/blob/main/install-mint-themes.sh) - install Linux Mint themes and icons on Debian or Arch
 - [install-yaru-themes](https://github.com/e33io/scripts/blob/main/install-yaru-themes.sh) - install Yaru themes and icons on Debian or Arch
-
-&nbsp;
-
-## window manager themes
-- [Xfwm4 themes](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes) (linked to [extra](https://github.com/e33io/extra) repo)
-	- [Border-Only-1px](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/Border-Only-1px)
-	- [Border-Only-2px](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/Border-Only-2px)
-	- [Border-Only-3px](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/Border-Only-3px)
-	- [Border-Only-4px](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/Border-Only-4px)
-	- [System-22](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/System-22)
-	- [System-24](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/System-24)
-	- [System-32](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/System-32)
-	- [System-40](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/System-40)
-	- [System-44](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/System-44)
-	- [System-48](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/System-48)
-	- [System-No-Titlebar](https://github.com/e33io/extra/tree/main/xfce/root/usr/share/themes/System-No-Titlebar)
-
-&nbsp;
-
-## Rofi themes and config options
-- [Rofi themes](https://github.com/e33io/core/tree/main/home/.config/rofi/themes) (linked to [core](https://github.com/e33io/core) repo)
-- [Rofi config options](https://github.com/e33io/theming/blob/main/rofi/rofi-config-options.md)
+- [set-theming-i3](https://github.com/e33io/scripts/blob/main/set-theming-i3.sh) - select and set theming for i3 and applications
+- [set-theming-jwm](https://github.com/e33io/scripts/blob/main/set-theming-jwm.sh) - select and set theming for JWM and applications
 
 &nbsp;
 
@@ -46,12 +23,6 @@ linux theming files
 - [X Colors themes](https://github.com/e33io/theming/blob/main/terminal/x-colors-themes.md)
 	- [Monokai Mod](https://github.com/e33io/theming/blob/main/terminal/x-colors-themes.md#monokai-mod)
 	- [Monokai Mod Light](https://github.com/e33io/theming/blob/main/terminal/x-colors-themes.md#monokai-mod-light)
-- [Xfce Terminal themes](https://github.com/e33io/extra/blob/main/xfce/root/usr/share/xfce4/terminal/colorschemes) (linked to [extra](https://github.com/e33io/extra) repo)
-	- [Monokai Mod](https://github.com/e33io/extra/blob/main/xfce/root/usr/share/xfce4/terminal/colorschemes/monokai-mod.theme)
-	- [Monokai Mod Light](https://github.com/e33io/extra/blob/main/xfce/root/usr/share/xfce4/terminal/colorschemes/monokai-mod-light.theme)
-- [COSMIC Terminal themes](https://github.com/e33io/theming/tree/main/terminal/cosmic-themes)
-	- [Monokai Mod](https://github.com/e33io/theming/blob/main/terminal/cosmic-themes/Monokai-Mod.ron)
-	- [Monokai Mod Light](https://github.com/e33io/theming/blob/main/terminal/cosmic-themes/Monokai-Mod-Light.ron)
 
 &nbsp;
 
@@ -63,6 +34,12 @@ linux theming files
 - [Mousepad themes](https://github.com/e33io/core/blob/main/root/usr/share/gtksourceview-4/styles) (and other gtksourceview-based editors)
 	- [Monokai Mod](https://github.com/e33io/core/blob/main/root/usr/share/gtksourceview-4/styles/monokai-mod.xml)
 	- [Monokai Mod Light](https://github.com/e33io/core/blob/main/root/usr/share/gtksourceview-4/styles/monokai-mod-light.xml)
+
+&nbsp;
+
+## Rofi themes and config options
+- [Rofi themes](https://github.com/e33io/core/tree/main/home/.config/rofi/themes) (linked to [core](https://github.com/e33io/core) repo)
+- [Rofi config options](https://github.com/e33io/theming/blob/main/rofi/rofi-config-options.md)
 
 &nbsp;
 
