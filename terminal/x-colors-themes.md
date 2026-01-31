@@ -40,33 +40,33 @@
 ## Monokai Mod Light
 ```
 ! X colors (Monokai Mod Light) --
-*cursorColor: #252525
-*foreground:  #252525
+*cursorColor: #1f1f1f
+*foreground:  #1f1f1f
 *background:  #ffffff
 ! white/orange ------------------
 *color0:  #eaeaea
-*color8:  #be4902
+*color8:  #de5702
 ! red ---------------------------
-*color1:  #c6043c
-*color9:  #eb0448
+*color1:  #a50334
+*color9:  #c8043c
 ! green -------------------------
-*color2:  #217033
-*color10: #28873d
+*color2:  #216f32
+*color10: #28863c
 ! yellow ------------------------
-*color3:  #746202
-*color11: #8a7502
+*color3:  #746200
+*color11: #8a7500
 ! blue --------------------------
-*color4:  #156892
-*color12: #1a7daf
+*color4:  #156790
+*color12: #1a7cad
 ! purple ------------------------
-*color5:  #5d4dd5
-*color13: #7265da
+*color5:  #4531cf
+*color13: #5d4dd5
 ! cyan --------------------------
-*color6:  #136e6f
-*color14: #168384
+*color6:  #126b6d
+*color14: #168183
 ! white -------------------------
-*color7:  #636363
-*color15: #767676
+*color7:  #616161
+*color15: #757575
 ! -------------------------------
 ```
 
