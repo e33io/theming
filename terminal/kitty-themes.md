@@ -73,8 +73,8 @@ color9  #c8043c
 color2  #216f32
 color10 #28863c
 # yellow ----------------
-color3  #746200
-color11 #8a7500
+color3  #7c6900
+color11 #947d00
 # blue ------------------
 color4  #156790
 color12 #1a7cad

@@ -41,7 +41,7 @@ green = "#28863c"
 magenta = "#5d4dd5"
 red = "#c8043c"
 white = "#757575"
-yellow = "#8a7500"
+yellow = "#947d00"
 
 [colors.normal]
 black = "#eaeaea"
@@ -51,7 +51,7 @@ green = "#216f32"
 magenta = "#4531cf"
 red = "#a50334"
 white = "#616161"
-yellow = "#746200"
+yellow = "#7c6900"
 
 [colors.primary]
 background = "#ffffff"
