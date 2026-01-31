@@ -62,42 +62,42 @@ background #ffffff
 background_opacity 1.0
 selection_foreground none
 selection_background none
-url_color #1a7cad
+url_color #1a7eb1
 # white/orange ----------
 color0  #eaeaea
-color8  #de5702
+color8  #d85402
 # red -------------------
-color1  #a50334
-color9  #c8043c
+color1  #a30331
+color9  #c6043b
 # green -----------------
-color2  #216f32
+color2  #227032
 color10 #28863c
 # yellow ----------------
-color3  #7c6900
-color11 #947d00
+color3  #8a7500
+color11 #a48b00
 # blue ------------------
-color4  #156790
-color12 #1a7cad
+color4  #166993
+color12 #1a7eb1
 # purple ----------------
-color5  #4531cf
-color13 #5d4dd5
+color5  #4530d0
+color13 #5e4cd6
 # cyan ------------------
-color6  #126b6d
-color14 #168183
+color6  #136d6f
+color14 #168385
 # white -----------------
-color7  #616161
-color15 #757575
+color7  #626262
+color15 #767676
 # Tab colors ------------------
 active_tab_foreground #eaeaea
-active_tab_background #156790
+active_tab_background #166993
 inactive_tab_foreground #eaeaea
-inactive_tab_background #616161
+inactive_tab_background #626262
 # Border colors ---------------
-active_border_color #216f32
-inactive_border_color #757575
+active_border_color #227032
+inactive_border_color #767676
 # Mark colors -----------------
 mark1_foreground #eaeaea
-mark1_background #a50334
+mark1_background #a30331
 ```
 
 &nbsp;

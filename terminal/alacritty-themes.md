@@ -34,24 +34,24 @@ foreground = "#dddddd"
 ## Monokai Mod Light
 ```
 [colors.bright]
-black = "#de5702"
-blue = "#1a7cad"
-cyan = "#168183"
+black = "#d85402"
+blue = "#1a7eb1"
+cyan = "#168385"
 green = "#28863c"
-magenta = "#5d4dd5"
-red = "#c8043c"
-white = "#757575"
-yellow = "#947d00"
+magenta = "#5e4cd6"
+red = "#c6043b"
+white = "#767676"
+yellow = "#a48b00"
 
 [colors.normal]
 black = "#eaeaea"
-blue = "#156790"
-cyan = "#126b6d"
-green = "#216f32"
-magenta = "#4531cf"
-red = "#a50334"
-white = "#616161"
-yellow = "#7c6900"
+blue = "#166993"
+cyan = "#136d6f"
+green = "#227032"
+magenta = "#4530d0"
+red = "#a30331"
+white = "#626262"
+yellow = "#8a7500"
 
 [colors.primary]
 background = "#ffffff"
