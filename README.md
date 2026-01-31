@@ -28,6 +28,7 @@ linux theming files
 ## text editor themes (linked to [core](https://github.com/e33io/core) repo)
 - [micro editor themes](https://github.com/e33io/core/blob/main/home/.config/micro/colorschemes)
 	- [Monokai Mod](https://github.com/e33io/core/blob/main/home/.config/micro/colorschemes/monokai-mod.micro)
+	- [Monokai Mod Light](https://github.com/e33io/core/blob/main/home/.config/micro/colorschemes/monokai-mod-light.micro)
 	- [X Colors](https://github.com/e33io/core/blob/main/home/.config/micro/colorschemes/x-colors.micro)
 	- [X Colors Light](https://github.com/e33io/core/blob/main/home/.config/micro/colorschemes/x-colors-light.micro)
 - [Mousepad themes](https://github.com/e33io/core/blob/main/root/usr/share/gtksourceview-4/styles) (and other gtksourceview-based editors)
