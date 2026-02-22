@@ -26,19 +26,19 @@ linux theming files
 &nbsp;
 
 ## text editor themes (linked to [core](https://github.com/e33io/core) repo)
-- [micro editor themes](https://github.com/e33io/core/blob/main/home/.config/micro/colorschemes)
-	- [Monokai Mod](https://github.com/e33io/core/blob/main/home/.config/micro/colorschemes/monokai-mod.micro)
-	- [Monokai Mod Light](https://github.com/e33io/core/blob/main/home/.config/micro/colorschemes/monokai-mod-light.micro)
-	- [X Colors](https://github.com/e33io/core/blob/main/home/.config/micro/colorschemes/x-colors.micro)
-	- [X Colors Light](https://github.com/e33io/core/blob/main/home/.config/micro/colorschemes/x-colors-light.micro)
-- [Mousepad themes](https://github.com/e33io/core/blob/main/root/usr/share/gtksourceview-4/styles) (and other gtksourceview-based editors)
-	- [Monokai Mod](https://github.com/e33io/core/blob/main/root/usr/share/gtksourceview-4/styles/monokai-mod.xml)
-	- [Monokai Mod Light](https://github.com/e33io/core/blob/main/root/usr/share/gtksourceview-4/styles/monokai-mod-light.xml)
+- [micro editor themes](https://github.com/e33io/dots/blob/main/home/.config/micro/colorschemes)
+	- [Monokai Mod](https://github.com/e33io/dots/blob/main/home/.config/micro/colorschemes/monokai-mod.micro)
+	- [Monokai Mod Light](https://github.com/e33io/dots/blob/main/home/.config/micro/colorschemes/monokai-mod-light.micro)
+	- [X Colors](https://github.com/e33io/dots/blob/main/home/.config/micro/colorschemes/x-colors.micro)
+	- [X Colors Light](https://github.com/e33io/dots/blob/main/home/.config/micro/colorschemes/x-colors-light.micro)
+- [Mousepad themes](https://github.com/e33io/dots/blob/main/root/usr/share/gtksourceview-4/styles) (and other gtksourceview-based editors)
+	- [Monokai Mod](https://github.com/e33io/dots/blob/main/root/usr/share/gtksourceview-4/styles/monokai-mod.xml)
+	- [Monokai Mod Light](https://github.com/e33io/dots/blob/main/root/usr/share/gtksourceview-4/styles/monokai-mod-light.xml)
 
 &nbsp;
 
 ## Rofi themes and config options
-- [Rofi themes](https://github.com/e33io/core/tree/main/home/.config/rofi/themes) (linked to [core](https://github.com/e33io/core) repo)
+- [Rofi themes](https://github.com/e33io/dots/tree/main/home/.config/rofi/themes) (linked to [core](https://github.com/e33io/core) repo)
 - [Rofi config options](https://github.com/e33io/theming/blob/main/rofi/rofi-config-options.md)
 
 &nbsp;
