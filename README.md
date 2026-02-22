@@ -25,7 +25,7 @@ linux theming files
 
 &nbsp;
 
-## text editor themes (linked to [dots](~/dotshttps://github.com/e33io/dots) repo)
+## text editor themes (linked to [dots](https://github.com/e33io/dots) repo)
 - [micro editor themes](https://github.com/e33io/dots/blob/main/home/.config/micro/colorschemes)
 	- [Monokai Mod](https://github.com/e33io/dots/blob/main/home/.config/micro/colorschemes/monokai-mod.micro)
 	- [Monokai Mod Light](https://github.com/e33io/dots/blob/main/home/.config/micro/colorschemes/monokai-mod-light.micro)
@@ -38,7 +38,7 @@ linux theming files
 &nbsp;
 
 ## Rofi themes and config options
-- [Rofi themes](https://github.com/e33io/dots/tree/main/home/.config/rofi/themes) (linked to [dots](~/dotshttps://github.com/e33io/dots) repo)
+- [Rofi themes](https://github.com/e33io/dots/tree/main/home/.config/rofi/themes) (linked to [dots](https://github.com/e33io/dots) repo)
 - [Rofi config options](https://github.com/e33io/theming/blob/main/rofi/rofi-config-options.md)
 
 &nbsp;
