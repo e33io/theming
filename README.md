@@ -4,44 +4,6 @@ linux theming files
 
 &nbsp;
 
-## theming install scripts (linked to [scripts](https://github.com/e33io/scripts) repo)
-- [install-mint-themes](https://github.com/e33io/scripts/blob/main/install-mint-themes.sh) - install Linux Mint themes and icons on Debian or Arch
-- [install-yaru-themes](https://github.com/e33io/scripts/blob/main/install-yaru-themes.sh) - install Yaru themes and icons on Debian or Arch
-- [install-custom-themes](https://github.com/e33io/scripts/blob/main/install-custom-themes.sh) - install custom Mint and Yaru themes on Arch
-
-&nbsp;
-
-## terminal themes
-- [Kitty themes](https://github.com/e33io/theming/blob/main/terminal/kitty-themes.md)
-	- [Monokai Mod](https://github.com/e33io/theming/blob/main/terminal/kitty-themes.md#monokai-mod)
-	- [Monokai Mod Light](https://github.com/e33io/theming/blob/main/terminal/kitty-themes.md#monokai-mod-light)
-- [Alacritty themes](https://github.com/e33io/theming/blob/main/terminal/alacritty-themes.md)
-	- [Monokai Mod](https://github.com/e33io/theming/blob/main/terminal/alacritty-themes.md#monokai-mod)
-	- [Monokai Mod Light](https://github.com/e33io/theming/blob/main/terminal/alacritty-themes.md#monokai-mod-light)
-- [X Colors themes](https://github.com/e33io/theming/blob/main/terminal/x-colors-themes.md)
-	- [Monokai Mod](https://github.com/e33io/theming/blob/main/terminal/x-colors-themes.md#monokai-mod)
-	- [Monokai Mod Light](https://github.com/e33io/theming/blob/main/terminal/x-colors-themes.md#monokai-mod-light)
-
-&nbsp;
-
-## text editor themes (linked to [dots](https://github.com/e33io/dots) repo)
-- [micro editor themes](https://github.com/e33io/dots/blob/main/home/.config/micro/colorschemes)
-	- [Monokai Mod](https://github.com/e33io/dots/blob/main/home/.config/micro/colorschemes/monokai-mod.micro)
-	- [Monokai Mod Light](https://github.com/e33io/dots/blob/main/home/.config/micro/colorschemes/monokai-mod-light.micro)
-	- [X Colors](https://github.com/e33io/dots/blob/main/home/.config/micro/colorschemes/x-colors.micro)
-	- [X Colors Light](https://github.com/e33io/dots/blob/main/home/.config/micro/colorschemes/x-colors-light.micro)
-- [Mousepad themes](https://github.com/e33io/dots/blob/main/root/usr/share/gtksourceview-4/styles) (and other gtksourceview-based editors)
-	- [Monokai Mod](https://github.com/e33io/dots/blob/main/root/usr/share/gtksourceview-4/styles/monokai-mod.xml)
-	- [Monokai Mod Light](https://github.com/e33io/dots/blob/main/root/usr/share/gtksourceview-4/styles/monokai-mod-light.xml)
-
-&nbsp;
-
-## Rofi themes and config options
-- [Rofi themes](https://github.com/e33io/dots/tree/main/home/.config/rofi/themes) (linked to [dots](https://github.com/e33io/dots) repo)
-- [Rofi config options](https://github.com/e33io/theming/blob/main/rofi/rofi-config-options.md)
-
-&nbsp;
-
 ## GTK themes
 - Mint themes (dark themes modified for a darker appearance)
 	- [Mint-Mod-Blue-Dark](https://github.com/e33io/theming/blob/main/gtk/Mint-Mod-Blue-Dark)
@@ -83,6 +45,37 @@ linux theming files
 	- [Yaru-Purple-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-purple-dark)
 	- [Yaru-Sage-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-sage-dark)
 	- [Yaru-Teal-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-prussiangreen-dark)
+
+&nbsp;
+
+## terminal themes
+- [Kitty themes](https://github.com/e33io/theming/blob/main/terminal/kitty-themes.md)
+	- [Monokai Mod](https://github.com/e33io/theming/blob/main/terminal/kitty-themes.md#monokai-mod)
+	- [Monokai Mod Light](https://github.com/e33io/theming/blob/main/terminal/kitty-themes.md#monokai-mod-light)
+- [Alacritty themes](https://github.com/e33io/theming/blob/main/terminal/alacritty-themes.md)
+	- [Monokai Mod](https://github.com/e33io/theming/blob/main/terminal/alacritty-themes.md#monokai-mod)
+	- [Monokai Mod Light](https://github.com/e33io/theming/blob/main/terminal/alacritty-themes.md#monokai-mod-light)
+- [X Colors themes](https://github.com/e33io/theming/blob/main/terminal/x-colors-themes.md)
+	- [Monokai Mod](https://github.com/e33io/theming/blob/main/terminal/x-colors-themes.md#monokai-mod)
+	- [Monokai Mod Light](https://github.com/e33io/theming/blob/main/terminal/x-colors-themes.md#monokai-mod-light)
+
+&nbsp;
+
+## text editor themes (linked to [dots](https://github.com/e33io/dots) repo)
+- [micro editor themes](https://github.com/e33io/dots/blob/main/home/.config/micro/colorschemes)
+	- [Monokai Mod](https://github.com/e33io/dots/blob/main/home/.config/micro/colorschemes/monokai-mod.micro)
+	- [Monokai Mod Light](https://github.com/e33io/dots/blob/main/home/.config/micro/colorschemes/monokai-mod-light.micro)
+	- [X Colors](https://github.com/e33io/dots/blob/main/home/.config/micro/colorschemes/x-colors.micro)
+	- [X Colors Light](https://github.com/e33io/dots/blob/main/home/.config/micro/colorschemes/x-colors-light.micro)
+- [Mousepad themes](https://github.com/e33io/dots/blob/main/root/usr/share/gtksourceview-4/styles) (and other gtksourceview-based editors)
+	- [Monokai Mod](https://github.com/e33io/dots/blob/main/root/usr/share/gtksourceview-4/styles/monokai-mod.xml)
+	- [Monokai Mod Light](https://github.com/e33io/dots/blob/main/root/usr/share/gtksourceview-4/styles/monokai-mod-light.xml)
+
+&nbsp;
+
+## Rofi themes and config options
+- [Rofi themes](https://github.com/e33io/dots/tree/main/home/.config/rofi/themes) (linked to [dots](https://github.com/e33io/dots) repo)
+- [Rofi config options](https://github.com/e33io/theming/blob/main/rofi/rofi-config-options.md)
 
 &nbsp;
 
