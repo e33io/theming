@@ -82,7 +82,6 @@ linux theming files
 ## links
 - view my [Sovran fonts](https://github.com/e33io/sovran-fonts) repo
 - view my collection of made and found [wallpapers](https://i.e33.io/wallpapers)
-- view my documentation and notes [reference-wiki](https://github.com/e33io/reference-wiki) repo
 
 &nbsp;
 
