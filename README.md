@@ -17,7 +17,7 @@ linux theming files
 - Yaru themes
 	- [Yaru-Blue-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-blue-dark)
 	- [Yaru-Brown-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-wartybrown-dark)
-	- [Yaru-Green-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-viridian-dark)
+	- [Yaru-Green-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-olive-dark)
 	- [Yaru-Orange-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-dark)
 	- [Yaru-Orange-Light](https://github.com/e33io/theming/blob/main/gtk/Yaru)
 	- [Yaru-Purple-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-purple-dark)
@@ -39,7 +39,7 @@ linux theming files
 - Yaru themes
 	- [Yaru-Blue-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-blue-dark)
 	- [Yaru-Brown-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-wartybrown-dark)
-	- [Yaru-Green-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-viridian-dark)
+	- [Yaru-Green-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-olive-dark)
 	- [Yaru-Orange-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-orange-dark)
 	- [Yaru-Orange-Light](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-orange)
 	- [Yaru-Purple-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-purple-dark)
