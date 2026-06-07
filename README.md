@@ -23,6 +23,7 @@ linux theming files
 	- [Yaru-Purple-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-purple-dark)
 	- [Yaru-Sage-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-sage-dark)
 	- [Yaru-Teal-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-prussiangreen-dark)
+	- [Yaru-Yellow-Dark](https://github.com/e33io/theming/blob/main/gtk/Yaru-yellow-dark)
 
 &nbsp;
 
@@ -45,6 +46,7 @@ linux theming files
 	- [Yaru-Purple-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-purple-dark)
 	- [Yaru-Sage-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-sage-dark)
 	- [Yaru-Teal-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-prussiangreen-dark)
+	- [Yaru-Yellow-Dark](https://github.com/e33io/theming/blob/main/Kvantum/Yaru-yellow-dark)
 
 &nbsp;
 
